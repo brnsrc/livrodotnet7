@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHr/FjJvAr1S5ThuXk3h6BuLSZjAyv0lCExhmZsDEMkDhEahSboaQA/4Ivkv7t9Y2t5D6sVHaI5UeP7FDbrtrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter04\\CallStackExceptionHandlingLib\\CallStackExceptionHandlingLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

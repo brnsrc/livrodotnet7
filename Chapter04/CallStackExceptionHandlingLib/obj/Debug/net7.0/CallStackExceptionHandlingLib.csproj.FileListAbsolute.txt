@@ -1,0 +1,11 @@
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net7.0\CallStackExceptionHandlingLib.deps.json
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net7.0\CallStackExceptionHandlingLib.dll
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net7.0\CallStackExceptionHandlingLib.pdb
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.AssemblyInfo.cs
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.dll
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\refint\CallStackExceptionHandlingLib.dll
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\CallStackExceptionHandlingLib.pdb
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net7.0\ref\CallStackExceptionHandlingLib.dll

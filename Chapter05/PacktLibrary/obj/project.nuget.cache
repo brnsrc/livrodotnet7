@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9sNgkQL/LlZAKf5wNkKZmzo5ZBH7iAkbs6fq9fC7czv57SIW6Qo9yfHIjegfCCc0DICpyoXvGZyZWVOSdULQeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
