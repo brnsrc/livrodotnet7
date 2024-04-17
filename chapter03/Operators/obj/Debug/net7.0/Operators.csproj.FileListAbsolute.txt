@@ -1,0 +1,14 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\bin\Debug\net7.0\Operators.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\bin\Debug\net7.0\Operators.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\bin\Debug\net7.0\Operators.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\obj\Debug\net7.0\Operators.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\obj\Debug\net7.0\Operators.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Operators\obj\Debug\net7.0\ref\Operators.dll

@@ -1,0 +1,14 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\obj\Debug\net7.0\refint\HandlingExceptions.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\HandlingExceptions\obj\Debug\net7.0\ref\HandlingExceptions.dll

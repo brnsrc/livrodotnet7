@@ -1,0 +1,14 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\bin\Debug\net7.0\Iterations.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\bin\Debug\net7.0\Iterations.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\bin\Debug\net7.0\Iterations.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\bin\Debug\net7.0\Iterations.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\bin\Debug\net7.0\Iterations.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\obj\Debug\net7.0\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\obj\Debug\net7.0\Iterations.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\obj\Debug\net7.0\Iterations.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\obj\Debug\net7.0\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\obj\Debug\net7.0\Iterations.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\obj\Debug\net7.0\refint\Iterations.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\obj\Debug\net7.0\Iterations.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\obj\Debug\net7.0\Iterations.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Iterations\obj\Debug\net7.0\ref\Iterations.dll

@@ -1,0 +1,14 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\bin\Debug\net7.0\pattern-matching.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\bin\Debug\net7.0\pattern-matching.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\bin\Debug\net7.0\pattern-matching.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\bin\Debug\net7.0\pattern-matching.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\bin\Debug\net7.0\pattern-matching.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\obj\Debug\net7.0\pattern-matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\obj\Debug\net7.0\pattern-matching.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\obj\Debug\net7.0\pattern-matching.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\obj\Debug\net7.0\pattern-matching.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\obj\Debug\net7.0\pattern-matching.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\obj\Debug\net7.0\refint\pattern-matching.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\obj\Debug\net7.0\pattern-matching.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\obj\Debug\net7.0\pattern-matching.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter03\Selection\pattern-matching\obj\Debug\net7.0\ref\pattern-matching.dll

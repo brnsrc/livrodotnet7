@@ -1,0 +1,14 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\bin\Debug\net7.0\Debugging.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\bin\Debug\net7.0\Debugging.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\bin\Debug\net7.0\Debugging.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\bin\Debug\net7.0\Debugging.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\bin\Debug\net7.0\Debugging.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\obj\Debug\net7.0\Debugging.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\obj\Debug\net7.0\refint\Debugging.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\obj\Debug\net7.0\Debugging.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\obj\Debug\net7.0\Debugging.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Debugging\obj\Debug\net7.0\ref\Debugging.dll

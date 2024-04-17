@@ -1,0 +1,14 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\obj\Debug\net7.0\refint\Instrumenting.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\Instrumenting\obj\Debug\net7.0\ref\Instrumenting.dll

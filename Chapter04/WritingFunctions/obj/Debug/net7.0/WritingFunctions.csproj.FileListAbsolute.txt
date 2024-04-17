@@ -1,0 +1,14 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\obj\Debug\net7.0\refint\WritingFunctions.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\WritingFunctions\obj\Debug\net7.0\ref\WritingFunctions.dll

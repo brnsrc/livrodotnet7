@@ -8,3 +8,13 @@ C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter05\PacktLibrary\obj\D
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb

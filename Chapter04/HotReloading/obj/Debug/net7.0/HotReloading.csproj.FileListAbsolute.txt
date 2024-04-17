@@ -1,0 +1,14 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\bin\Debug\net7.0\HotReloading.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\bin\Debug\net7.0\HotReloading.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\bin\Debug\net7.0\HotReloading.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\bin\Debug\net7.0\HotReloading.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\bin\Debug\net7.0\HotReloading.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\obj\Debug\net7.0\HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\obj\Debug\net7.0\HotReloading.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\obj\Debug\net7.0\HotReloading.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\obj\Debug\net7.0\HotReloading.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\obj\Debug\net7.0\HotReloading.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\obj\Debug\net7.0\refint\HotReloading.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\obj\Debug\net7.0\HotReloading.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\obj\Debug\net7.0\HotReloading.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter04\HotReloading\obj\Debug\net7.0\ref\HotReloading.dll

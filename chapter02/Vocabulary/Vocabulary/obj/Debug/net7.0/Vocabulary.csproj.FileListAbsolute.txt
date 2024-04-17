@@ -1,0 +1,14 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\obj\Debug\net7.0\refint\Vocabulary.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter02\Vocabulary\Vocabulary\obj\Debug\net7.0\ref\Vocabulary.dll
