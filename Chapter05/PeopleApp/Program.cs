@@ -88,3 +88,7 @@ var thing1 = ("Neville", 4);
 WriteLine($"{thing1.Item1} has {thing1.Item2} children.");
 var thing2 = (bob.Name, bob.Children.Count);
 WriteLine($"{thing2.Name} has {thing2.Count} children.");
+
+(string fruitName, int fruitNumber) = bob.GetFruit();
+WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
+

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZY2518ubF7Dd1UMxSVunYdxD8rqZZCo518x84X8OFHB824AIUtCcdxlWlbvFYOwd4Vj1alPkQbVCl3JIiza/Yg==",
+  "dgSpecHash": "aSvHJVfsATO/Jf9NVCrV4GINY0pReNUrlDUMVQTQFZlYfVH/rueAHEhDCXbUkVjSuVSggZ2Qar4iwQfFNoXbCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
