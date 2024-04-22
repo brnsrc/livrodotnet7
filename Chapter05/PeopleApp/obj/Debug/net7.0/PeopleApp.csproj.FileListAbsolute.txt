@@ -34,3 +34,4 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PeopleApp\obj\Deb
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.CopyComplete
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.genruntimeconfig.cache
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PeopleApp\obj\Debug\net7.0\ref\PeopleApp.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.sourcelink.json

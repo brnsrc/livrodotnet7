@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\chapter05\\PacktLibrary\\PacktLibrary.csproj": {}
+    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\chapter05\\PacktLibrary\\PacktLibrary.csproj": {
+    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\chapter05\\PacktLibrary\\PacktLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\chapter05\\PacktLibrary\\PacktLibrary.csproj",
+        "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\chapter05\\PacktLibrary\\obj\\",
+        "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter05\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

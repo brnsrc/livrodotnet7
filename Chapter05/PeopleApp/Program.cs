@@ -1,7 +1,7 @@
 ﻿using Packt.Shared;
 
 Person bob = new();
-bob.Name = "Bruno";
+bob.Name = "Bob";
 bob.DateOfBirth = new DateTime(1965, 12, 22);
 
 WriteLine(format:
@@ -75,3 +75,16 @@ WriteLine(format:
   arg0: gunny.Name,
   arg1: gunny.HomePlanet,
   arg2: gunny.Instantiated);
+
+bob.WriteToConsole();
+WriteLine(bob.GetOrigin());
+
+(string, int) fruit = bob.GetFruit();
+var fruitNamed = bob.GetNamedFruit();
+WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
+WriteLine($"There are {fruitNamed.Number}, {fruitNamed.Name}.");
+
+var thing1 = ("Neville", 4);
+WriteLine($"{thing1.Item1} has {thing1.Item2} children.");
+var thing2 = (bob.Name, bob.Children.Count);
+WriteLine($"{thing2.Name} has {thing2.Count} children.");
