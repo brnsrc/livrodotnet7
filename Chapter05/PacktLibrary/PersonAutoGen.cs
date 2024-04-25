@@ -48,7 +48,25 @@ namespace Packt.Shared
             }
         }
 
+        //indexers
+        public Person this[int index]{
+            get{
+                return Children[index]; //pass on to the List<T> indexer
+            }
+            set{
+                Children[index] = value;
+            }
+        }
+
+        public Person this[string name]{
+            get{
+                return Children.Find(p => p.Name == name);
+            }
+            set{
+                Person found = Children.Find(p => p.Name == name);
+                if (found is not null) found = value;
+            }
+        }
+
     }
 }    
-
-    //

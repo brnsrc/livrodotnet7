@@ -136,3 +136,23 @@ sam.FavoriteIceCream = "Chocolate Fudge";
 WriteLine($"Sam's favorite ice-cream flavor is {sam.FavoriteIceCream}.");
 sam.FavoritePrimaryColor = "Red";
 WriteLine($"Sam's favorite ice-cream flavor is {sam.FavoritePrimaryColor}.");
+
+
+Book book = new();
+book.Title = "C# 11 and .NET 7 - Modern Cross-Platform Development";
+
+WriteLine($"book.Title: {book.Title}");
+
+sam.Children.Add(new() { Name = "Charlie", DateOfBirth = new(2010, 3, 18) });
+sam.Children.Add(new() { Name = "Ella", DateOfBirth = new(2020, 12, 24) });
+
+//get using Children list
+WriteLine($"Sam's first child is {sam.Children[0].Name}.");
+WriteLine($"Sam's second child is {sam.Children[1].Name}.");
+
+//get using integer position indexer
+WriteLine($"Sam's first child is {sam[0].Name}");
+WriteLine($"Sam's second child is {sam[1].Name}");
+
+//get using name indexer
+WriteLine($"Sam's child named Ella is {sam["Ella"].Age} years old");
