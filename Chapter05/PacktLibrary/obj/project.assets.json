@@ -180,23 +180,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\": {},
+    "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
       "projectName": "PacktLibrary",
-      "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
-      "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter05\\PacktLibrary\\obj\\",
+      "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+      "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter05\\PacktLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bruno.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BrunoSouza-Desk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -240,7 +240,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
