@@ -19,3 +19,4 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\bin\
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.sourcelink.json
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.sourcelink.json

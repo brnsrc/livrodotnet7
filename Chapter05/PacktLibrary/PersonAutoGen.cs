@@ -94,5 +94,50 @@ namespace Packt.Shared
             partner.Marry(this);
         }
 
+
+        //static method to "multiply"
+        public static Person Procreate(Person p1, Person p2){
+            if (p1.spouse != p2)
+            {
+                throw new ArgumentException("You must married to procreate.");
+            }
+            Person baby = new(){
+                Name = $"Baby of {p1.Name} and {p2.Name}",
+                DateOfBirth = DateTime.Now
+            };
+            p1.Children.Add(baby);
+            p2.Children.Add(baby);
+            return baby;
+        }
+
+        //instance method to "multiply"
+        public Person ProcreateWith(Person partner){
+            return Procreate(this, partner);
+        }
+
+        //operator to "marry"
+        public static bool operator +(Person p1, Person p2){
+            Marry(p1, p2);
+            return p1.Married && p2.Married; //confirm they are both noew married
+        }
+
+        //operator to "multiply"
+        public static Person operator *(Person p1, Person p2){
+            return Procreate(p1, p2);
+        }
+
+        //method with a local function
+        public static int Factorial(int number){
+            if (number < 0){
+                throw new ArgumentException($"{nameof(number)} cannot be less zero.");
+            }
+            return localFactorial(number);
+
+            int localFactorial(int localNumber) { //local function
+                if (localNumber == 0) return 1;
+                return localNumber * localFactorial(localNumber - 1);
+            }
+        }
+        
     }
 }
