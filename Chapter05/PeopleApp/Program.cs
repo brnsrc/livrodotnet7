@@ -235,3 +235,12 @@ foreach (Passenger passenger in passengers)
    };
    WriteLine($"Flight costs {flightCost:C} for {passenger}");
 }
+
+ImmutablePerson jeff = new()
+{
+   FirstName = "Jeff",
+   LastName = "Winger"
+};
+
+// jeff.FirstName = "Geoff";
+// WriteLine("Jeff: " + jeff.FirstName);
