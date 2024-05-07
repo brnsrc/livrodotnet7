@@ -1,0 +1,11 @@
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\bin\Debug\net7.0\PacktLibrary.deps.json
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\bin\Debug\net7.0\PacktLibrary.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\bin\Debug\net7.0\PacktLibrary.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\PacktLibrary.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\refint\PacktLibrary.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\PacktLibrary.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\ref\PacktLibrary.dll
