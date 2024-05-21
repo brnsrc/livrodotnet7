@@ -28,3 +28,27 @@ lookupIntString.Add(key: 4, value: "Delta");
 
 key = 3;
 WriteLine(format: "Key {0} has value: {1}", arg0: key, arg1: lookupIntString[key]);
+
+
+//assign an event handler methods to Shout event
+harry.Shout += Harry_Shout;
+harry.Shout += Harry_Shout2;
+
+//call the poke method that raises the Shout event
+harry.Poke();
+harry.Poke();
+harry.Poke();
+harry.Poke();
+
+Person?[] people = {
+    null,
+    new() {Name = "Simon"},
+    new() {Name = "Jenny"},
+    new() {Name = "Adam"},
+    new() {Name = null},
+    new() {Name = "Richard"}
+};
+
+OutputPeopleNames(people, "Initial list of people:");
+Array.Sort(people);
+OutputPeopleNames(people, "After sorting using Person's IComparable implementaion:");
