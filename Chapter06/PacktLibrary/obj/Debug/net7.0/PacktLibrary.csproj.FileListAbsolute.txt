@@ -9,3 +9,4 @@ C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\D
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\refint\PacktLibrary.dll
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\PacktLibrary.pdb
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\ref\PacktLibrary.dll
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\PacktLibrary\obj\Debug\net7.0\PacktLibrary.sourcelink.json

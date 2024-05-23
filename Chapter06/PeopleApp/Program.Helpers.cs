@@ -5,10 +5,13 @@ partial class Program
         WriteLine(title);
         foreach (Person? p in people)
         {
-            WriteLine(" {0}", p is null ? "<null> Person" : p.Name ?? "<null> Name");
+            WriteLine(" {0}", p is null ? "<null> Person" : 
+            p.Name ?? "<null> Name");
+
             /* if p is null then output: <null> Person
             else output: p.Name
-            unless p.Name is null in which case output: <null> Name */
+            unless p.Name is null in which case 
+            output: <null> Name */            
             
         }
     }

@@ -1,6 +1,7 @@
 ﻿namespace Packt.Shared;
 
-public class Person : object
+public class Person : object, 
+    IComparable<Person?>
 {
     //properties
     public string? Name { get; set; }
@@ -29,5 +30,37 @@ public class Person : object
     //methods
     public void WriteToConsole(){
         WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
+    }
+
+    public int CompareTo(Person? other)
+    {
+        int position;
+        if ((this is not null) && (other is not null))
+        {
+            if ((Name is not null) && (other.Name is not null))
+            {
+                //if both Name values are not null,
+                //use the string implementation of CompareTo
+                position = Name.CompareTo(other.Name);
+            }
+            else if ((Name is not null) && (other.Name is null))
+            {
+                position = -1; //else this Person procedes other Person                
+            }else if((Name is null) && (other.Name is not null)){
+                position = 1;
+            }else{
+                position = 0; //this Person and other Person are at same position
+            }
+        }
+        else if((this is not null) && (other is null)){
+            position = -1; //this Person precedes other person            
+        }
+        else if((this is null) && (other is not null)){
+            position = 1;
+        }else{
+            position = 0;//this Personand other Person are at same position
+        }
+        return position;
+        
     }
 }
