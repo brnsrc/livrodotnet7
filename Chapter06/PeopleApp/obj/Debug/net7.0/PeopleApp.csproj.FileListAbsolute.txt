@@ -15,5 +15,4 @@ C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PeopleApp\obj\Debu
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.pdb
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.genruntimeconfig.cache
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PeopleApp\obj\Debug\net7.0\ref\PeopleApp.dll
-C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.sourcelink.json
-C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.Up2Date
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.CopyComplete

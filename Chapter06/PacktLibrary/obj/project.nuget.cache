@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HltcW+6f3228Mbi8qsGq2G4sxxMnGCff0mOpdwF/IcdqbrCoR6VoNrS9J8MbwQDCuFd3SiRQjBgz2ChYSz19lQ==",
+  "dgSpecHash": "NXHhqPU/MXW6pr8tsX4jNybyhN/O8Ns0E8kM5rYTlRDQ6Ivi38tGq4e50ZPCurbs+j4s7MZKV4fkiyTLKWrL0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
