@@ -1,0 +1,15 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\bin\Debug\net7.0\NullHandling.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\bin\Debug\net7.0\NullHandling.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\bin\Debug\net7.0\NullHandling.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\bin\Debug\net7.0\NullHandling.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\bin\Debug\net7.0\NullHandling.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\NullHandling.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\NullHandling.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\NullHandling.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\NullHandling.sourcelink.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\NullHandling.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\refint\NullHandling.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\NullHandling.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\NullHandling.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter06\NullHandling\obj\Debug\net7.0\ref\NullHandling.dll
