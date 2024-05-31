@@ -84,3 +84,12 @@ WriteLine($"({dv1.x}, {dv1.y} + {dv2.x}, {dv2.y} = ({dv3.x}, {dv3.y})");
 
 DisplacementVector dv4 = new();
 WriteLine($"{dv4.x}, {dv4.y}");
+
+Employee john = new(){
+    Name = "John Jones",
+    DateOfBirth = new(year: 1990, month: 7, day: 28)
+};
+john.WriteToConsole();
+john.EmployeeCode = "JJ001";
+john.HireDate = new(year: 2014, month: 11, day: 23);
+WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");

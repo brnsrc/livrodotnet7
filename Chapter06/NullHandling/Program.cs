@@ -28,3 +28,4 @@ Address address = new()
 
 WriteLine(address.Building?.Length);
 WriteLine(address.Street.Length);
+
