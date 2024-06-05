@@ -85,11 +85,64 @@ WriteLine($"({dv1.x}, {dv1.y} + {dv2.x}, {dv2.y} = ({dv3.x}, {dv3.y})");
 DisplacementVector dv4 = new();
 WriteLine($"{dv4.x}, {dv4.y}");
 
-Employee john = new(){
+Employee john = new()
+{
     Name = "John Jones",
     DateOfBirth = new(year: 1990, month: 7, day: 28)
 };
-john.WriteToConsole();
-john.EmployeeCode = "JJ001";
-john.HireDate = new(year: 2014, month: 11, day: 23);
-WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
+
+// john.WriteToConsole();
+// john.EmployeeCode = "JJ001";
+// john.HireDate = new(year: 2014, month: 11, day: 23);
+// WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
+
+Employee aliceInEmployee = new()
+{ Name = "Alice", EmployeeCode = "AA123" };
+Person aliceInPerson = aliceInEmployee;
+aliceInEmployee.WriteToConsole();
+aliceInPerson.WriteToConsole();
+WriteLine(aliceInEmployee.ToString());
+WriteLine(aliceInPerson.ToString());
+
+if (aliceInPerson is Employee)
+{
+    WriteLine($"{nameof(aliceInPerson)} IS an employee.");
+    Employee exlpicitAlice = (Employee)aliceInPerson;
+    //safely do something with explicitAlice
+}
+
+if (aliceInPerson is Employee explicitAlice)
+{
+    WriteLine($"{nameof(aliceInPerson)} IS an employee");
+}
+
+Employee? aliceAsEmployee = aliceInPerson as Employee; //could be null
+if (aliceAsEmployee is not null)
+{
+    WriteLine($"{nameof(aliceInPerson)} AS an employee");
+    //safely do something with aliceAsEmployee
+}
+
+try
+{
+    john.TimeTravel(when: new(1999, 12, 31));
+    john.TimeTravel(when: new(1950, 12, 25));
+}
+catch (PersonException ex)
+{
+
+    WriteLine(ex.Message);
+}
+
+string email1 = "pamela@test.com";
+string email2 = "ian&test.com";
+WriteLine("{0} is a valid e-mail address: {1}",
+    arg0: email1, arg1: StringExtensions.IsValidEmail(email1));
+WriteLine("{0} is a valid e-mail address: {1}",
+    arg0: email2, arg1: StringExtensions.IsValidEmail(email2));
+
+
+WriteLine("{0} is a valid e-mail address: {1}",
+    arg0: email1, arg1: email1.IsValidEmail());
+WriteLine("{0} is a valid e-mail address: {1}",
+    arg0: email2, arg1: email2.IsValidEmail());

@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleApp", "PeopleApp\Peop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullHandling", "NullHandling\NullHandling.csproj", "{D15055E0-DB44-41FC-98C9-D79DA91C1478}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAnalyzing", "CodeAnalyzing\CodeAnalyzing.csproj", "{48717F36-EBDE-4A29-A9D0-CFD35886BCDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D15055E0-DB44-41FC-98C9-D79DA91C1478}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D15055E0-DB44-41FC-98C9-D79DA91C1478}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D15055E0-DB44-41FC-98C9-D79DA91C1478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48717F36-EBDE-4A29-A9D0-CFD35886BCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48717F36-EBDE-4A29-A9D0-CFD35886BCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48717F36-EBDE-4A29-A9D0-CFD35886BCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48717F36-EBDE-4A29-A9D0-CFD35886BCDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

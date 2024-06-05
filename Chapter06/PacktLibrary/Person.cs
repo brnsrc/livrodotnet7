@@ -1,6 +1,6 @@
 ﻿namespace Packt.Shared;
 
-public class Person : object, 
+public class Person : object,
     IComparable<Person?>
 {
     //properties
@@ -14,7 +14,8 @@ public class Person : object,
     public int AngerLevel;
 
     //method
-    public void Poke(){
+    public void Poke()
+    {
         AngerLevel++;
         if (AngerLevel >= 3)
         {
@@ -28,7 +29,8 @@ public class Person : object,
     }
 
     //methods
-    public void WriteToConsole(){
+    public void WriteToConsole()
+    {
         WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
     }
 
@@ -46,21 +48,42 @@ public class Person : object,
             else if ((Name is not null) && (other.Name is null))
             {
                 position = -1; //else this Person procedes other Person                
-            }else if((Name is null) && (other.Name is not null)){
+            }
+            else if ((Name is null) && (other.Name is not null))
+            {
                 position = 1;
-            }else{
+            }
+            else
+            {
                 position = 0; //this Person and other Person are at same position
             }
         }
-        else if((this is not null) && (other is null)){
+        else if ((this is not null) && (other is null))
+        {
             position = -1; //this Person precedes other person            
         }
-        else if((this is null) && (other is not null)){
+        else if ((this is null) && (other is not null))
+        {
             position = 1;
-        }else{
+        }
+        else
+        {
             position = 0;//this Personand other Person are at same position
         }
         return position;
-        
+
+    }
+
+    public void TimeTravel(DateTime when)
+    {
+        if (when <= DateOfBirth)
+        {
+            throw new PersonException("If you travel back in time to a date earlier than your " +
+            "own birth, then the universe will explode!");
+        }
+        else
+        {
+            WriteLine($"Welcome to {when:yyyy}");
+        }
     }
 }

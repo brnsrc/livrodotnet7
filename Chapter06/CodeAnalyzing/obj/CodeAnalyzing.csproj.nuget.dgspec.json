@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\NullHandling\\NullHandling.csproj": {}
+    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\NullHandling\\NullHandling.csproj": {
+    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\NullHandling\\NullHandling.csproj",
-        "projectName": "NullHandling",
-        "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\NullHandling\\NullHandling.csproj",
+        "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
+        "projectName": "CodeAnalyzing",
+        "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
         "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\NullHandling\\obj\\",
+        "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter06\\CodeAnalyzing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
