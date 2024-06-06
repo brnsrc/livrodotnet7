@@ -60,17 +60,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\": {}
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
+      "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
       "projectName": "CodeAnalyzing",
-      "projectPath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
+      "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
       "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter06\\CodeAnalyzing\\obj\\",
+      "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\CodeAnalyzing\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\bruno.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -92,11 +96,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -121,30 +120,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

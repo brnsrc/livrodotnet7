@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Kc9cm5huJjz1BIVLMitckW7R3MKqIM+HS64MZIeVXkVqR/d4sEvkv4P/sy2LxEmivgQbJk+IHJmfSTlIADgag==",
+  "dgSpecHash": "xmHig1Zaw5zQXIN7Vi7bApnYy0PKh0Ar2O9IAZqdlJXbu90ZXGnYtHC2QWtc5z6nagYZdvWYBac1KzA9DH2r9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter06\\PeopleApp\\PeopleApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

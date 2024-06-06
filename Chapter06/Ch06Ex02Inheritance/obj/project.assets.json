@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\NullHandling\\NullHandling.csproj",
-      "projectName": "NullHandling",
-      "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\NullHandling\\NullHandling.csproj",
+      "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\Ch06Ex02Inheritance\\Ch06Ex02Inheritance.csproj",
+      "projectName": "Ch06Ex02Inheritance",
+      "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\Ch06Ex02Inheritance\\Ch06Ex02Inheritance.csproj",
       "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\NullHandling\\obj\\",
+      "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\Ch06Ex02Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
