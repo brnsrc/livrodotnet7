@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "+H2GR78pJE2TwksNEfSk4iJOamo1bz4vtlfKcG2IE1PRMPGXpUZUmN9jovJ1Nbq+OTVBBCfJQac6or1fxixfRA==",
+  "dgSpecHash": "VmWSev+ayN0SWYxecvIMI7jD/0UfE0JVGi6+C/SpLWDyr6mf91hP95JfldhRKwopv3AY6Xxk9PPZwjVI+e/h7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno.costa\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.556\\stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.556\\stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512"
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.556\\stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

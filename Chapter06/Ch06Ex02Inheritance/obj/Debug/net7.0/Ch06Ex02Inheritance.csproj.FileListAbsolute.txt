@@ -1,0 +1,15 @@
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\bin\Debug\net7.0\Ch06Ex02Inheritance.exe
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\bin\Debug\net7.0\Ch06Ex02Inheritance.deps.json
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\bin\Debug\net7.0\Ch06Ex02Inheritance.runtimeconfig.json
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\bin\Debug\net7.0\Ch06Ex02Inheritance.dll
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\bin\Debug\net7.0\Ch06Ex02Inheritance.pdb
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.AssemblyInfoInputs.cache
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.AssemblyInfo.cs
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.sourcelink.json
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.dll
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\refint\Ch06Ex02Inheritance.dll
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.pdb
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.genruntimeconfig.cache
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\ref\Ch06Ex02Inheritance.dll

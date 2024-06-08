@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Ch06Ex02Inheritance
 {
-    public class Shape
+    public abstract class Shape
     {
         public float Height { get; set; }
         public float Width { get; set; }
