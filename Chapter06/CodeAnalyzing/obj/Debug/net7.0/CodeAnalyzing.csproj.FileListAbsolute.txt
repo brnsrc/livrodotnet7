@@ -2,7 +2,6 @@ C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\CodeAnalyzing\obj\
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\CodeAnalyzing\obj\Debug\net7.0\CodeAnalyzing.AssemblyInfoInputs.cache
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\CodeAnalyzing\obj\Debug\net7.0\CodeAnalyzing.AssemblyInfo.cs
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\CodeAnalyzing\obj\Debug\net7.0\CodeAnalyzing.csproj.CoreCompileInputs.cache
-C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\CodeAnalyzing\obj\Debug\net7.0\CodeAnalyzing.sourcelink.json
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\CodeAnalyzing\bin\Debug\net7.0\CodeAnalyzing.exe
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\CodeAnalyzing\bin\Debug\net7.0\CodeAnalyzing.deps.json
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\CodeAnalyzing\bin\Debug\net7.0\CodeAnalyzing.runtimeconfig.json
