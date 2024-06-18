@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SharedLibrary
+build_property.ProjectDir = C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\SharedLibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

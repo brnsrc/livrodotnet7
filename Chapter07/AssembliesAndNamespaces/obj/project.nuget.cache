@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KTkVLafJxoUm9I3wk8Y4aEQUAkIf2aqmxvbLHdnLF/kQfUtSBLI8UA0QvXaancwIU+jboeAqu7J0sJVH7cillg==",
+  "dgSpecHash": "k6dDqzV33QHdnFVy2ZIS6T2i5QU/DPeDdA62EOYmKLMI/kUnMbZCcPtLG9RsSJO0/JbwQy2JbOyHGOaO907eBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
