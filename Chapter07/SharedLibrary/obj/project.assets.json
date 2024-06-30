@@ -183,10 +183,10 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "7.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
-      "projectName": "SharedLibrary",
+      "projectName": "Packt1910.CSdotnet.SharedLibrary",
       "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
       "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter07\\SharedLibrary\\obj\\",

@@ -10,8 +10,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SharedLibrary")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Mark J Price")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("\r\n      Copyright © 2016-2022 Packt Publishing Limited\r\n    ")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("\r\n      Three extension methods to validate a string value.\r\n    ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SharedLibrary")]

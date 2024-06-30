@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AssembliesAndNamespaces</id>
+    <version>1.0.0</version>
+    <authors>AssembliesAndNamespaces</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="c98dce6d719ce17d85d458e61a8f219732284ac7" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="newtonsoft.json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\bin\Release\net7.0\AssembliesAndNamespaces.runtimeconfig.json" target="lib\net7.0\AssembliesAndNamespaces.runtimeconfig.json" />
+    <file src="C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\bin\Release\net7.0\AssembliesAndNamespaces.dll" target="lib\net7.0\AssembliesAndNamespaces.dll" />
+  </files>
+</package>

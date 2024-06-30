@@ -27,3 +27,8 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndName
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\obj\Debug\net7.0\AssembliesAndNamespaces.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\obj\Debug\net7.0\AssembliesAndNamespaces.genruntimeconfig.cache
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\obj\Debug\net7.0\ref\AssembliesAndNamespaces.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\obj\Debug\net7.0\AssembliesAndNamespaces.csproj.AssemblyReference.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\obj\Debug\net7.0\AssembliesAndNamespaces.csproj.CopyComplete
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\bin\Debug\net7.0\SharedLibrary.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\AssembliesAndNamespaces\bin\Debug\net7.0\DialectSoftware.Collections.Matrix.dll

@@ -1,0 +1,15 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\bin\Debug\net7.0\UsingPreviewFeatures.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\bin\Debug\net7.0\UsingPreviewFeatures.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\bin\Debug\net7.0\UsingPreviewFeatures.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\bin\Debug\net7.0\UsingPreviewFeatures.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\bin\Debug\net7.0\UsingPreviewFeatures.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\UsingPreviewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\UsingPreviewFeatures.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\UsingPreviewFeatures.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\UsingPreviewFeatures.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\UsingPreviewFeatures.sourcelink.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\UsingPreviewFeatures.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\refint\UsingPreviewFeatures.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\UsingPreviewFeatures.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\UsingPreviewFeatures.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\UsingPreviewFeatures\obj\Debug\net7.0\ref\UsingPreviewFeatures.dll

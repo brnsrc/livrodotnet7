@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "k6dDqzV33QHdnFVy2ZIS6T2i5QU/DPeDdA62EOYmKLMI/kUnMbZCcPtLG9RsSJO0/JbwQy2JbOyHGOaO907eBA==",
+  "dgSpecHash": "R3JXxw6FhzfXmiPhCaAeHRlaKpLHLdeSr7/eK/dOnoL4fXNew6vLhvf9vqRgHMUp0uv/UYqUjZb8ssSXpUrPkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\dialectsoftware.collections.matrix\\1.0.0\\dialectsoftware.collections.matrix.1.0.0.nupkg.sha512",
+    "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\packt1910.csdotnet.sharedlibrary\\7.0.0\\packt1910.csdotnet.sharedlibrary.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DialectSoftware.Collections.Matrix 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DialectSoftware.Collections.Matrix",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

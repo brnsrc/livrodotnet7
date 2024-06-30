@@ -2,7 +2,6 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\linux-x64\DotNetEverywhere.deps.json
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\linux-x64\DotNetEverywhere.runtimeconfig.json
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\linux-x64\DotNetEverywhere.dll
-C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\linux-x64\DotNetEverywhere.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\linux-x64\Microsoft.CSharp.dll
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\linux-x64\Microsoft.VisualBasic.Core.dll
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\linux-x64\Microsoft.VisualBasic.dll
@@ -193,6 +192,5 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\linux-x64\DotNetEverywhere.csproj.CopyComplete
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\linux-x64\DotNetEverywhere.dll
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\linux-x64\refint\DotNetEverywhere.dll
-C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\linux-x64\DotNetEverywhere.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\linux-x64\DotNetEverywhere.genruntimeconfig.cache
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\linux-x64\ref\DotNetEverywhere.dll

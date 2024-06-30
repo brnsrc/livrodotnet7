@@ -1,0 +1,13 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\DotNetEverywhere.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\DotNetEverywhere.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\DotNetEverywhere.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\bin\Release\net7.0\DotNetEverywhere.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\DotNetEverywhere.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\DotNetEverywhere.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\DotNetEverywhere.sourcelink.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\DotNetEverywhere.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\refint\DotNetEverywhere.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\DotNetEverywhere.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter07\DotNetEverywhere\obj\Release\net7.0\ref\DotNetEverywhere.dll
