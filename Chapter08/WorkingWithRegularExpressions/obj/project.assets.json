@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter08\\WorkingWithNumbers\\WorkingWithNumbers.csproj",
-      "projectName": "WorkingWithNumbers",
-      "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter08\\WorkingWithNumbers\\WorkingWithNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter08\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
+      "projectName": "WorkingWithRegularExpressions",
+      "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter08\\WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj",
       "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter08\\WorkingWithNumbers\\obj\\",
+      "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter08\\WorkingWithRegularExpressions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

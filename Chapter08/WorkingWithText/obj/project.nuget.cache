@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9FZj4JEzDD9AZ0oQMLpD5upDacIn3sdH3u0HHRyPvhD9pU7zT52Lixu8tdZG+cBL7zOT/jBd9YeVBjjiRZUtXA==",
+  "dgSpecHash": "hGn0MMuecyhLXM2rJpjvIkpwdApDtHKO0mUENjEb3jtcqAcQk7+OWtP5vhR2ny5aXP6K1ZBjSHqReV2RCseA8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter08\\WorkingWithText\\WorkingWithText.csproj",
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter08\\WorkingWithText\\WorkingWithText.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
