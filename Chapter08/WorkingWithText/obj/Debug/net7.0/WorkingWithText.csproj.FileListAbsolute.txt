@@ -1,0 +1,15 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\bin\Debug\net7.0\WorkingWithText.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\bin\Debug\net7.0\WorkingWithText.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\bin\Debug\net7.0\WorkingWithText.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\bin\Debug\net7.0\WorkingWithText.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\bin\Debug\net7.0\WorkingWithText.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\WorkingWithText.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\WorkingWithText.sourcelink.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\WorkingWithText.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\refint\WorkingWithText.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\WorkingWithText.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\WorkingWithText.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithText\obj\Debug\net7.0\ref\WorkingWithText.dll

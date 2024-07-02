@@ -1,0 +1,15 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.sourcelink.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\refint\WorkingWithNumbers.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\ref\WorkingWithNumbers.dll
