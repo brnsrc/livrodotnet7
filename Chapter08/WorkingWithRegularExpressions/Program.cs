@@ -5,7 +5,8 @@ Regex ageChecker = new(@"^\d+$");
 if (ageChecker.IsMatch(input))
 {
     WriteLine("Thank you");
-}else
+}
+else
 {
     WriteLine($"This is not a valid age: {input}");
 }
@@ -14,7 +15,9 @@ if (ageChecker.IsMatch(input))
 // string films = "\"Monsters, Inc.\",\"I, Tonya\",\"Lock, Stock and Two Smoking Barrels\"";
 
 // C# 11 or later: Use """ to start and end a raw string literal
-string films = """"Monster, Inc.","I, Tnoya","Lock, Stock and Two Smoking Barrels"""";
+string films = """
+    "Monsters, Inc.","I, Tonya","Lock, Stock and Two Smoking Barrels" 
+    """;
 WriteLine($"Films to split: {films}");
 string[] filmsDumb = films.Split(',');
 WriteLine("Splitting with string.Split method: ");
