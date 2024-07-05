@@ -1,0 +1,14 @@
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\bin\Debug\net7.0\WorkingWithNetworkResource.exe
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\bin\Debug\net7.0\WorkingWithNetworkResource.deps.json
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\bin\Debug\net7.0\WorkingWithNetworkResource.runtimeconfig.json
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\bin\Debug\net7.0\WorkingWithNetworkResource.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\bin\Debug\net7.0\WorkingWithNetworkResource.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\obj\Debug\net7.0\WorkingWithNetworkResource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\obj\Debug\net7.0\WorkingWithNetworkResource.AssemblyInfoInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\obj\Debug\net7.0\WorkingWithNetworkResource.AssemblyInfo.cs
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\obj\Debug\net7.0\WorkingWithNetworkResource.csproj.CoreCompileInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\obj\Debug\net7.0\WorkingWithNetworkResource.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\obj\Debug\net7.0\refint\WorkingWithNetworkResource.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\obj\Debug\net7.0\WorkingWithNetworkResource.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\obj\Debug\net7.0\WorkingWithNetworkResource.genruntimeconfig.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithNetworkResource\obj\Debug\net7.0\ref\WorkingWithNetworkResource.dll

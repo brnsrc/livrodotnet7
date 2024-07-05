@@ -1,4 +1,6 @@
-﻿List<string> cities = new();
+﻿using System.Collections.Immutable;
+
+List<string> cities = new();
 cities.Add("London");
 cities.Add("Paris");
 cities.Add("Milan");
@@ -99,3 +101,8 @@ vaccine.Enqueue("Mark", 2); //me (40s)
 WriteLine($"{vaccine.Peek()} will be next to be vaccinated.");
 OutputPQ("Current queue for vaccination:", vaccine.UnorderedItems);
 
+
+ImmutableList<string> immutableCities = cities.ToImmutableList();
+ImmutableList<string> newlist = immutableCities.Add("Rio");
+Output("Immutable list of cities:", immutableCities);
+Output("New list of cities:", newlist);

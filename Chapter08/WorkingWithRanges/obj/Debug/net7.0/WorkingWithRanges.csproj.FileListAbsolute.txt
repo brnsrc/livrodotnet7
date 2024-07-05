@@ -1,0 +1,14 @@
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\bin\Debug\net7.0\WorkingWithRanges.exe
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\bin\Debug\net7.0\WorkingWithRanges.deps.json
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\bin\Debug\net7.0\WorkingWithRanges.runtimeconfig.json
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\bin\Debug\net7.0\WorkingWithRanges.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\bin\Debug\net7.0\WorkingWithRanges.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\obj\Debug\net7.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\obj\Debug\net7.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\obj\Debug\net7.0\WorkingWithRanges.AssemblyInfo.cs
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\obj\Debug\net7.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\obj\Debug\net7.0\WorkingWithRanges.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\obj\Debug\net7.0\refint\WorkingWithRanges.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\obj\Debug\net7.0\WorkingWithRanges.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\obj\Debug\net7.0\WorkingWithRanges.genruntimeconfig.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter08\WorkingWithRanges\obj\Debug\net7.0\ref\WorkingWithRanges.dll
