@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1WEY+kx+eWvowNZrYGhqdwO+0v7kqwW286OCimW/8zAGpF3ym6dxRvUTPSxZloCwrl12/fwlTUuEMEbYA0wa9A==",
+  "dgSpecHash": "MD7FD+hxnfoDrMaoOdLqmBQ9h8ASJ0a1z6HdxbHupxqXE4FUdSXIb7mY3gjBHa9AKg+78+/umrVh/oPaxBxDhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
