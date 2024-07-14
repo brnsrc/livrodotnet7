@@ -20,11 +20,11 @@ SectionTitle("Managing drives");
 WriteLine("{0,-31} | {1,-10} | {2,-7} | {3,18} | {4,18}", "NAME", "TYPE", "FORMAT", "SIZE (BYTES)", "FREE SPACE");
 foreach (DriveInfo drive in DriveInfo.GetDrives())
 {
-    if (drive.IsReady)
-    {
-        WriteLine("{0,-31} | {1,-10} | {2,-7} | {3,18:N0} | {4,18:N0}",
-        drive.Name, drive.DriveType, drive.DriveFormat, drive.TotalSize, drive.AvailableFreeSpace);
-    }
+  if (drive.IsReady)
+  {
+    WriteLine("{0,-31} | {1,-10} | {2,-7} | {3,18:N0} | {4,18:N0}",
+    drive.Name, drive.DriveType, drive.DriveFormat, drive.TotalSize, drive.AvailableFreeSpace);
+  }
 }
 
 SectionTitle("Managing directories");
@@ -93,3 +93,28 @@ WriteLine($"Reading contents of {backupFile}:");
 StreamReader textReader = File.OpenText(backupFile);
 WriteLine(textReader.ReadToEnd());
 textReader.Close();
+
+SectionTitle("Managing paths");
+WriteLine($"Folder Name: {GetDirectoryName(textFile)}");
+WriteLine($"File Name: {GetFileName(textFile)}");
+WriteLine("File Name without Extension: {0}",
+  GetFileNameWithoutExtension(textFile));
+
+WriteLine($"File Extension: {GetExtension(textFile)}");
+//GetRandomFileName just returns a filename; 
+//it doesn't create the file.
+WriteLine($"Random File Name: {GetRandomFileName()}");
+//GetTempFileName creates a zero-byte file and returns its name, 
+//ready for you to use
+WriteLine($"Temporary File Name: {GetTempFileName()}");
+
+SectionTitle("Getting file information");
+FileInfo info = new(backupFile);
+WriteLine($"{backupFile}");
+WriteLine($"Contains {info.Length} bytes");
+WriteLine($"Last accessed {info.LastAccessTime}");
+WriteLine($"Has readonly set to {info.IsReadOnly}");
+
+FileInfo info2 = new(backupFile);
+WriteLine("Is the backup file compressed ? {0}",
+  info2.Attributes.HasFlag(FileAttributes.Compressed));
