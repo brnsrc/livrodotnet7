@@ -1,0 +1,15 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.sourcelink.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\refint\WorkingWithStreams.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithStreams\obj\Debug\net7.0\ref\WorkingWithStreams.dll
