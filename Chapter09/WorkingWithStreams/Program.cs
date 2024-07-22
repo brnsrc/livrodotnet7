@@ -73,3 +73,7 @@ finally
 WriteLine("{0} contains {1:N0} bytes.", arg0: xmlFile,
     arg1: new FileInfo(xmlFile).Length);
 WriteLine(File.ReadAllText(xmlFile));
+
+SectionTitle("Compressing Streams");
+Compress(algorithm: "gzip");
+Compress(algorithm: "brotli");
