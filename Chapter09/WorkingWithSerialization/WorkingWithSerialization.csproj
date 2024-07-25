@@ -8,6 +8,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Using Include="System.Console" static="true" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
+
 
 </Project>
