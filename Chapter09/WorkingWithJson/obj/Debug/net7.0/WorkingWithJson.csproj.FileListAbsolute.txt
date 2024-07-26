@@ -1,0 +1,15 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.exe
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.sourcelink.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\refint\WorkingWithJson.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\ref\WorkingWithJson.dll
