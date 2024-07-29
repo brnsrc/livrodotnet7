@@ -12,3 +12,4 @@ C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritanc
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.pdb
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.genruntimeconfig.cache
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\ref\Ch06Ex02Inheritance.dll
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter06\Ch06Ex02Inheritance\obj\Debug\net7.0\Ch06Ex02Inheritance.sourcelink.json

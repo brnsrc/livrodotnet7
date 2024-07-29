@@ -2,6 +2,7 @@ namespace Ch06Ex02Inheritance
 {
     public class Rectangle : Shape
     {
+
         public Rectangle(float h, float w)
         {
             Height = h;
