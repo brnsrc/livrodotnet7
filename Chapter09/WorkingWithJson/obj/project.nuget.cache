@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "X7xpFT0nX235RbjfJ/r6nwL3Y7vRHs5G3lBeWWS0/qEvlw4lUAPzT8FuyO3Mv/eSFkQW1+hVfCEqzH7E1GeKMA==",
+  "dgSpecHash": "MdSGp9Q5NJK4uHqzUqQsjR2Mk0zNHJWYqlheFfEIgsfJ3ev0KaiFAho349bW+clQSJPoPgslvNMqCXnLZ25wvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter09\\WorkingWithJson\\WorkingWithJson.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter09\\WorkingWithJson\\WorkingWithJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Z6PqQrhU9Eb3GgHuhvUSYGDAx3M1nokndFnGIMues2RDc3EewJph6uQQeM3yTlSbhi9EpW3Jxnm0VWUaYgGamA==",
+  "dgSpecHash": "iiTf2uSwBDY0e/LJky2SLb3HFrVHGSwXxE7Hc7g1Pl6qFCzWNaHkbhrYH2nw9RVcWq4AKrtOd4KZ0oFwDl1+Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter09\\WorkingWithStreams\\WorkingWithStreams.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter09\\WorkingWithStreams\\WorkingWithStreams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

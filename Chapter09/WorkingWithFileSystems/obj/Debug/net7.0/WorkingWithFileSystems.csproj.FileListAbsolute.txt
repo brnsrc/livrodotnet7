@@ -27,3 +27,4 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithFileSy
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.genruntimeconfig.cache
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\ref\WorkingWithFileSystems.dll
+C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.sourcelink.json

@@ -8,23 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
+      "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
       "projectName": "WorkingWithEncodings",
-      "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
-      "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter09\\WorkingWithEncodings\\obj\\",
+      "projectPath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
+      "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter09\\WorkingWithEncodings\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\BrunoSouza-Desk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bruno.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -44,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -60,12 +61,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

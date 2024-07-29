@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FFVBxkRzdN2ZTw9BiJJ0arIHI9NOWGMjvKWY3yGm+vr/wwTsTWJhHiItaNG63ytPKXfjml2s9y80Z3OHo1JAAg==",
+  "dgSpecHash": "CE3ZN86wRYIhoCeAz2V61RC4fW1xHLk5hXbzLwfDbVvWQVoCVrTtKslF2cTziYPQtBy3/ldA/z3xzdlmX6aC/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

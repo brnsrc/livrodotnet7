@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSerialization", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithJson", "WorkingWithJson\WorkingWithJson.csproj", "{E65AD885-8F78-40CE-A3E4-3B2EDEA2E286}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch09Ex02SerializingShapes", "Ch09Ex02SerializingShapes\Ch09Ex02SerializingShapes.csproj", "{29EFBB8D-1B17-4C10-8BEE-592E2F50E785}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{E65AD885-8F78-40CE-A3E4-3B2EDEA2E286}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E65AD885-8F78-40CE-A3E4-3B2EDEA2E286}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E65AD885-8F78-40CE-A3E4-3B2EDEA2E286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EFBB8D-1B17-4C10-8BEE-592E2F50E785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EFBB8D-1B17-4C10-8BEE-592E2F50E785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EFBB8D-1B17-4C10-8BEE-592E2F50E785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EFBB8D-1B17-4C10-8BEE-592E2F50E785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
