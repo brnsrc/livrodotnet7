@@ -9,9 +9,7 @@ namespace Ch09Ex02SerializingShapes
     public class Circle : Shape
     {
         public double Radius { get; set; }
-        public Circle()
-        {
-            Area = 3.14 * (this.Radius*this.Radius);                   
-        }
+
+        public override double Are => (Math.PI * (Math.Pow(Radius, 2)));
     }
 }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dm2i4wj4mZNIax9yUfUVQKnOVYq4iO4sqNouXlOnczH8tXTK/uXh+Ac4G1Hhg3DpK3QriHx8A8vFAbZNg84NqA==",
+  "dgSpecHash": "/Fi4y9rfUBFRznEk2TE+lkM+Jto73sGiwIrl8qLY63BtfPMADezBbVyZ9XQtGFaoKdZvfUzVEHQp+WWKGEwwTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter09\\Ch09Ex02SerializingShapes\\Ch09Ex02SerializingShapes.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter09\\Ch09Ex02SerializingShapes\\Ch09Ex02SerializingShapes.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

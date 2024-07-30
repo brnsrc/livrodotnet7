@@ -9,7 +9,7 @@ namespace Ch09Ex02SerializingShapes
     public abstract class Shape
     {
         public string Colour { get; set; }
-        internal double Area;
+        public abstract double Are { get; }
 
     }
 }
