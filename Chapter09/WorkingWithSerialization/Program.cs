@@ -3,7 +3,7 @@ using Packt.Shared; //Person
 using static System.Environment;
 using static System.IO.Path;
 
-using FastJson = System.Text.Json.JsonSerializer;
+using FastJson = System.Text.Json.JsonSerializer; //FastJason it's an Alias
 
 //create an object graph
 List<Person> people = new(){

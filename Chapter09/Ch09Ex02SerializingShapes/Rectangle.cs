@@ -11,6 +11,9 @@ namespace Ch09Ex02SerializingShapes
         public double Height { get; set; }
         public double Width { get; set; }
 
-        public override double Are => (Height * Width);
+        public Rectangle() : base() { }
+
+        public override double Area => (Height * Width);
+
     }
 }

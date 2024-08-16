@@ -10,6 +10,9 @@ namespace Ch09Ex02SerializingShapes
     {
         public double Radius { get; set; }
 
-        public override double Are => (Math.PI * (Math.Pow(Radius, 2)));
+        public Circle() : base() { }
+
+        public override double Area => (Math.PI * (Math.Pow(Radius, 2)));
+
     }
 }

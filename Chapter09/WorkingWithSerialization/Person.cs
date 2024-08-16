@@ -13,7 +13,7 @@ public class Person
     public string? FirstName { get; set; }
 
     [XmlAttribute("lname")]
-public string? LastName { get; set; }
+    public string? LastName { get; set; }
 
     [XmlAttribute("dob")]
     public DateTime DateOfBirth { get; set; }
