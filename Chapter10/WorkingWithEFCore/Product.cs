@@ -15,7 +15,7 @@ public class Product
     [Column("UnitPrice", TypeName = "money")]
     public decimal? Cost { get; set; } // property name != column name
 
-    [Column("UnitInStock")]
+    [Column("UnitsInStock")]
     public short? Stock { get; set; }
 
     public bool Discontinued { get; set; }
