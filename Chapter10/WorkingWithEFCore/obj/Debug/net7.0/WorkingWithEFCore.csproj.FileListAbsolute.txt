@@ -115,3 +115,7 @@ C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\WorkingWithEFCore\
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.pdb
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.genruntimeconfig.cache
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\WorkingWithEFCore\obj\Debug\net7.0\ref\WorkingWithEFCore.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\System.CodeDom.dll
