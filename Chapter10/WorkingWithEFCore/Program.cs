@@ -2,4 +2,8 @@
 
 // Northwind db = new();
 // WriteLine($"Provider: {db.Database.ProviderName}");
-QueryCategories();
+
+// QueryCategories();
+// FilteredIncludes();
+QueryingProducts();
+
