@@ -88,8 +88,34 @@ partial class Program
             {
                 WriteLine("{0}: {1} costs {2:$#,##0.00} and has {3} in stock.",
                     p.ProductId, p.ProductName, p.Cost, p.Stock);
-            }
+            }            
 
         }
+    }
+    static void QueryingWithLike(){
+        using(Northwind db = new()){
+            SectionTitle("Pattern matching with LIKE.");
+            Write("Enter part of a product name: ");
+            string? input = ReadLine();
+
+            if (string.IsNullOrWhiteSpace(input))
+            {
+                Fail("You did not enter part of a product name.");
+                return;
+            }
+
+            IQueryable<Product>? products = db.Products?.Where(p => EF.Functions.Like(p.ProductName, $"%{input}%"));
+            if (products is null)
+            {
+                Fail("No products found.");
+                return;
+            }
+            Info($"ToQueryString: {products.ToQueryString()}");
+            foreach (Product product in products)
+            {
+                WriteLine("{0} has {1} units in stock. Discontinued? {2}", product.ProductName, product.Stock, product.Discontinued);
+            }
+        }
+                
     }
 }

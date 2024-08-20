@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {}
+    "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {
+    "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
         "projectName": "WorkingWithEFCore",
-        "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
-        "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\obj\\",
+        "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+        "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter10\\WorkingWithEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\BrunoSouza-Desk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
