@@ -4,6 +4,6 @@
 // WriteLine($"Provider: {db.Database.ProviderName}");
 
 // QueryCategories();
-// FilteredIncludes();
+FilteredIncludes();
 QueryingProducts();
 

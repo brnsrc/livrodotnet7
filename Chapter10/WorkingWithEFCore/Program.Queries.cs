@@ -30,8 +30,10 @@ partial class Program
         }
     }
 
-    static void FilteredIncludes(){
-        using(Northwind db = new()){
+    static void FilteredIncludes()
+    {
+        using (Northwind db = new())
+        {
             SectionTitle("Products with a minimum number of units in stock.");
             string? input;
             int stock;
@@ -43,25 +45,29 @@ partial class Program
             } while (!int.TryParse(input, out stock));
             IQueryable<Category>? categories =
                 db.Categories?.Include(c => c.Products.Where(p => p.Stock >= stock));
-            if (categories is null){
+            if (categories is null)
+            {
                 Fail("No categories found.");
                 return;
             }
+            Info($"ToQueryString: {categories.ToQueryString()}");
             foreach (Category c in categories)
             {
                 WriteLine(
-                    $"{c.CategoryName} has {c.Products.Count} products with a niminum of {stock} units in stock.");                
+                    $"{c.CategoryName} has {c.Products.Count} products with a niminum of {stock} units in stock.");
 
                 foreach (Product p in c.Products)
                 {
                     WriteLine($"    {p.ProductName} has {p.Stock} units in stock.");
                 }
-            }            
+            }
         }
     }
 
-    static void QueryingProducts(){
-        using(Northwind db = new()){
+    static void QueryingProducts()
+    {
+        using (Northwind db = new())
+        {
             SectionTitle("Products that cost more than a price, highest at top.");
             string? input;
             decimal price;
@@ -77,9 +83,10 @@ partial class Program
                 Fail("No products found.");
                 return;
             }
+            Info($"ToQueryString: {products.ToQueryString()}");
             foreach (Product p in products)
             {
-                WriteLine("{0}: {1} costs {2:$#,##0.00} and has {3} in stock.", 
+                WriteLine("{0}: {1} costs {2:$#,##0.00} and has {3} in stock.",
                     p.ProductId, p.ProductName, p.Cost, p.Stock);
             }
 
