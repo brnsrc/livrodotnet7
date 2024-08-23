@@ -83,7 +83,7 @@ partial class Program
                 Fail("No products found.");
                 return;
             }
-            Info($"ToQueryString: {products.ToQueryString()}");
+            // Info($"ToQueryString: {products.ToQueryString()}");
             foreach (Product p in products)
             {
                 WriteLine("{0}: {1} costs {2:$#,##0.00} and has {3} in stock.",
@@ -94,6 +94,7 @@ partial class Program
     }
     static void QueryingWithLike(){
         using(Northwind db = new()){
+            
             SectionTitle("Pattern matching with LIKE.");
             Write("Enter part of a product name: ");
             string? input = ReadLine();
@@ -104,18 +105,37 @@ partial class Program
                 return;
             }
 
-            IQueryable<Product>? products = db.Products?.Where(p => EF.Functions.Like(p.ProductName, $"%{input}%"));
+            IQueryable<Product>? products = 
+                db.Products?.Where(p => EF.Functions.Like(p.ProductName, $"%{input}%"));
             if (products is null)
             {
                 Fail("No products found.");
                 return;
             }
-            Info($"ToQueryString: {products.ToQueryString()}");
+            // Info($"ToQueryString: {products.ToQueryString()}");
             foreach (Product product in products)
             {
                 WriteLine("{0} has {1} units in stock. Discontinued? {2}", product.ProductName, product.Stock, product.Discontinued);
             }
         }
-                
+    }
+    static void GetRandomProduct(){
+        using (Northwind db = new()){
+            SectionTitle("Get a random product.");
+            int? rowCount = db.Products?.Count();
+            if (rowCount == null)
+            {
+                Fail("Products table is empty");
+                return;
+            }
+
+            Product? p = db.Products?.FirstOrDefault(p => p.ProductId == (int)(EF.Functions.Random() * rowCount));
+            if (p == null)
+            {
+                Fail("Product not found.");
+                return;
+            }
+            WriteLine($"Random product: {p.ProductId} {p.ProductName}");
+        }
     }
 }

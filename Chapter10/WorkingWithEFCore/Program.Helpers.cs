@@ -8,7 +8,7 @@ partial class Program
 {
     static void SectionTitle(string title)
     {
-        ConsoleColor previousColor = ConsoleColor.Yellow;
+        ConsoleColor previousColor = ForegroundColor;
         ForegroundColor = ConsoleColor.Yellow;
 
         WriteLine("*");

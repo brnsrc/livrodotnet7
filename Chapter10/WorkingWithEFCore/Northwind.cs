@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.EntityFrameworkCore.Sqlite;
+using Microsoft.Extensions.Options;
 using WorkingWithEFCore;
 
 namespace Packt.Shared;
@@ -13,11 +15,14 @@ public class Northwind : DbContext
     {
         string path = Path.Combine(Environment.CurrentDirectory, "Northwind.db");
         string connection = $"Filename={path}";
+
         ConsoleColor previousColor = ForegroundColor;
         ForegroundColor = ConsoleColor.DarkYellow;
         WriteLine($"Connection: {connection}");
         ForegroundColor = previousColor;
+        
         optionsBuilder.UseSqlite(connection);
+        optionsBuilder.LogTo(WriteLine, new[] {RelationalEventId.CommandExecuting}).EnableSensitiveDataLogging(); //console
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -33,5 +38,6 @@ public class Northwind : DbContext
             modelBuilder.Entity<Product>().Property(product => product.Cost)
             .HasConversion<double>();
         }
+        
     }
 }
