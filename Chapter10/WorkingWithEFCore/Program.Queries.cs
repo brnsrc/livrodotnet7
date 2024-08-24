@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Packt.Shared;
 using WorkingWithEFCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking; //CollectionEntry
 
 partial class Program
 {
@@ -14,17 +15,40 @@ partial class Program
         {
             SectionTitle("Categories and how many products they have:");
             //query to get all categories and their related products
-            IQueryable<Category>? categories =
-                db.Categories?.Include(c => c.Products);
-            if (categories is null)
+            IQueryable<Category>? categories;
+            // db.Categories?.Include(c => c.Products);
+            // db.Categories;
+            db.ChangeTracker.LazyLoadingEnabled = false;
+            Write("Enable eager loading? (Y/N): ");
+            bool eagerLoading = (ReadKey(intercept: true).Key == ConsoleKey.Y);
+            bool explicitLoading = false;
+            WriteLine();
+            if (eagerLoading)
             {
-                Fail("No categories found.");
-                return;
+                categories = db.Categories?.Include(c => c.Products);
+            }
+            else
+            {
+                categories = db.Categories;
+                Write("Enable explicit loading? (Y/N): ");
+                explicitLoading = (ReadKey(intercept: true).Key == ConsoleKey.Y);
+                WriteLine();
             }
 
-            //execute query and enumerate results
             foreach (Category c in categories)
             {
+                if (explicitLoading)
+                {
+                    Write($"Explicitly load products for {c.CategoryName}? (Y/N): ");
+                    ConsoleKeyInfo key = ReadKey(intercept: true);
+                    WriteLine();
+                    if (key.Key == ConsoleKey.Y)
+                    {
+                        CollectionEntry<Category, Product> products =
+                            db.Entry(c).Collection(c2 => c2.Products);
+                        if (!products.IsLoaded) products.Load();
+                    }
+                }
                 WriteLine($"{c.CategoryName} has {c.Products.Count} products.");
             }
         }
@@ -88,13 +112,15 @@ partial class Program
             {
                 WriteLine("{0}: {1} costs {2:$#,##0.00} and has {3} in stock.",
                     p.ProductId, p.ProductName, p.Cost, p.Stock);
-            }            
+            }
 
         }
     }
-    static void QueryingWithLike(){
-        using(Northwind db = new()){
-            
+    static void QueryingWithLike()
+    {
+        using (Northwind db = new())
+        {
+
             SectionTitle("Pattern matching with LIKE.");
             Write("Enter part of a product name: ");
             string? input = ReadLine();
@@ -105,7 +131,7 @@ partial class Program
                 return;
             }
 
-            IQueryable<Product>? products = 
+            IQueryable<Product>? products =
                 db.Products?.Where(p => EF.Functions.Like(p.ProductName, $"%{input}%"));
             if (products is null)
             {
@@ -119,8 +145,10 @@ partial class Program
             }
         }
     }
-    static void GetRandomProduct(){
-        using (Northwind db = new()){
+    static void GetRandomProduct()
+    {
+        using (Northwind db = new())
+        {
             SectionTitle("Get a random product.");
             int? rowCount = db.Products?.Count();
             if (rowCount == null)

@@ -20,9 +20,10 @@ public class Northwind : DbContext
         ForegroundColor = ConsoleColor.DarkYellow;
         WriteLine($"Connection: {connection}");
         ForegroundColor = previousColor;
-        
+
         optionsBuilder.UseSqlite(connection);
-        optionsBuilder.LogTo(WriteLine, new[] {RelationalEventId.CommandExecuting}).EnableSensitiveDataLogging(); //console
+        optionsBuilder.LogTo(WriteLine, new[] { RelationalEventId.CommandExecuting }).EnableSensitiveDataLogging(); //console
+        optionsBuilder.UseLazyLoadingProxies();
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -38,6 +39,8 @@ public class Northwind : DbContext
             modelBuilder.Entity<Product>().Property(product => product.Cost)
             .HasConversion<double>();
         }
-        
+
+        //global filter to remove discontinued products
+        modelBuilder.Entity<Product>().HasQueryFilter(p => !p.Discontinued);
     }
 }
