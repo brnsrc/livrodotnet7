@@ -1,0 +1,14 @@
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\bin\Debug\net7.0\CoursesAndStudents.exe
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\bin\Debug\net7.0\CoursesAndStudents.deps.json
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\bin\Debug\net7.0\CoursesAndStudents.runtimeconfig.json
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\bin\Debug\net7.0\CoursesAndStudents.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\bin\Debug\net7.0\CoursesAndStudents.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\obj\Debug\net7.0\CoursesAndStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\obj\Debug\net7.0\CoursesAndStudents.AssemblyInfoInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\obj\Debug\net7.0\CoursesAndStudents.AssemblyInfo.cs
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\obj\Debug\net7.0\CoursesAndStudents.csproj.CoreCompileInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\obj\Debug\net7.0\CoursesAndStudents.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\obj\Debug\net7.0\refint\CoursesAndStudents.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\obj\Debug\net7.0\CoursesAndStudents.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\obj\Debug\net7.0\CoursesAndStudents.genruntimeconfig.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter10\CoursesAndStudents\obj\Debug\net7.0\ref\CoursesAndStudents.dll

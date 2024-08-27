@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Microsoft.EntityFrameworkCore.Update;
+using Microsoft.EntityFrameworkCore.Storage; //IDbContextTransaction
 using Packt.Shared;
+
 
 partial class  Program
 {
@@ -64,16 +66,22 @@ partial class  Program
 
     static int DeleteProducts(string productNameStartWith){
         using(Northwind db = new()){
-            IQueryable<Product>? products = db.Products?.Where(p => p.ProductName.StartsWith(productNameStartWith));
-            if (products is null)
-            {
-                WriteLine("No products found to delete.");
-                return 0;
-            }else{
-                db.Products.RemoveRange(products);
-            }
-            int affected = db.SaveChanges();
-            return affected;
+            using(IDbContextTransaction t = db.Database.BeginTransaction()){
+                WriteLine("Transaction isolation level: {0}", arg0: t.GetDbTransaction().IsolationLevel);
+
+                IQueryable<Product>? products = db.Products?.Where(p => p.ProductName.StartsWith(productNameStartWith));
+
+                if (products is null)
+                {
+                    WriteLine("No products found to delete.");
+                    return 0;
+                }else{
+                    db.Products.RemoveRange(products);
+                }
+                int affected = db.SaveChanges();
+                t.Commit();
+                return affected;
+            }            
         }
     }
 }

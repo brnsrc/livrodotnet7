@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithEFCore", "WorkingWithEFCore.csproj", "{13C69595-E669-4543-8AFB-3807E1153810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursesAndStudents", "..\CoursesAndStudents\CoursesAndStudents.csproj", "{FBB79DC1-CFC0-41C6-A14D-5047747DD9C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{13C69595-E669-4543-8AFB-3807E1153810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13C69595-E669-4543-8AFB-3807E1153810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13C69595-E669-4543-8AFB-3807E1153810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB79DC1-CFC0-41C6-A14D-5047747DD9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB79DC1-CFC0-41C6-A14D-5047747DD9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB79DC1-CFC0-41C6-A14D-5047747DD9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB79DC1-CFC0-41C6-A14D-5047747DD9C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
