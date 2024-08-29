@@ -12,7 +12,6 @@ namespace Packt.Shared
             string path = Path.Combine(Environment.CurrentDirectory, "Academy.db");
             string connection = $"Filename={path}";
 
-
             // string connection = @"Data Source=.;Initial Catalog=Academy;Integrated Security=true;    MultipleActiveResultSets=true;";
             WriteLine($"Connection: {connection}");
             optionsBuilder.UseSqlite(connection);
@@ -41,8 +40,8 @@ namespace Packt.Shared
                 new { CoursesCourseId = 1, StudentsStudentId = 3 },
 
                 //only Bob signed up for Web Dev
-                new { CoursesCourseid = 2, StudentsStudentId = 2 },
-                new { CoursesCourseid = 3, StudentsStudentId = 3 }
+                new { CoursesCourseId = 2, StudentsStudentId = 2 },
+                new { CoursesCourseId = 3, StudentsStudentId = 3 }
             ));
         }
     }
