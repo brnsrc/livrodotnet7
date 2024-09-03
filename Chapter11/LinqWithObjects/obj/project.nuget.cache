@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Rl4FRX+zmlV9WurRRSs5I9SYpVifDa8WX7EwmZsKsGyaEoAZJy+bSq1yUE6DlHo9nkCUW/5MF9mx7nWa93+5w==",
+  "dgSpecHash": "otbdPRISasq8J7ChHX8HnSr78+YW+OyGpbdc4IkDKYjvVgyQWMcdK0bRJ2vOxyAeMCOxP5XhGFmLVnLkROOFUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\Chapter11\\LinqWithObjects\\LinqWithObjects.csproj",
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter11\\LinqWithObjects\\LinqWithObjects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
