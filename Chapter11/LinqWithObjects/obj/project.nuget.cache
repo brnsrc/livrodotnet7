@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "otbdPRISasq8J7ChHX8HnSr78+YW+OyGpbdc4IkDKYjvVgyQWMcdK0bRJ2vOxyAeMCOxP5XhGFmLVnLkROOFUQ==",
+  "dgSpecHash": "1fK72gyQFhB+Dugg4sz1Niclv11aZ42qA0ObgDKOTZdgi3txRVHErgU9/gQctIKeSetdt2AaNBktFBBRgGlrkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\Chapter11\\LinqWithObjects\\LinqWithObjects.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\Chapter11\\LinqWithObjects\\LinqWithObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
