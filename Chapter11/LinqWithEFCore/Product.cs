@@ -26,26 +26,6 @@ namespace Packt.Shared
         public short? UnitsOnOrder { get; set; }
         public short? ReOrderLevel { get; set; }
         public bool Discontinued { get; set; }
-        
-        
 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-        
-        
-        
     }
 }

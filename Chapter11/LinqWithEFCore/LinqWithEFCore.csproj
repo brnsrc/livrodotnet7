@@ -9,5 +9,8 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <Using Include="System.Console" Static="true" />
+  </ItemGroup>
 
 </Project>
