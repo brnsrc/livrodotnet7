@@ -48,8 +48,6 @@ C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.AssemblyInfoInputs.cache
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.AssemblyInfo.cs
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.csproj.CoreCompileInputs.cache
-C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.sourcelink.json
-C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWith.15139F57.Up2Date
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.dll
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\refint\LinqWithEFCore.dll
 C:\Users\bruno.costa\Documents\code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.pdb
@@ -112,3 +110,4 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter11\LinqWithEFCore\ob
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.genruntimeconfig.cache
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\ref\LinqWithEFCore.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqWithEFCore\obj\Debug\net7.0\LinqWithEFCore.csproj.CopyComplete

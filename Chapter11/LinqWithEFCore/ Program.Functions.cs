@@ -12,19 +12,29 @@ partial class Program
             IQueryable<Product> filteredProducts =
                 allProducts.Where(
                 product => product.UnitPrice < 10M);
+
             IOrderedQueryable<Product> sortedAndFilteredProducts =
-                filteredProducts.OrderByDescending(
-                product => product.UnitPrice);
+                filteredProducts.OrderByDescending(product => product.UnitPrice);
+
+            var projectedProducts = sortedAndFilteredProducts.Select(product => new //anonymous type
+                {
+                    product.ProductId,
+                    product.ProductName,
+                    product.UnitPrice
+                });
+                
             WriteLine("Products that cost less than $10:");
-            foreach (Product p in sortedAndFilteredProducts)
+            foreach (var p in projectedProducts)
             {
                 WriteLine("{0}: {1} costs {2:$#,##0.00}", p.ProductId,
                     p.ProductName, p.UnitPrice);
             }
             WriteLine();
-            WriteLine(sortedAndFilteredProducts.ToQueryString());
+            WriteLine(projectedProducts.ToQueryString());
         }
+    }
 
-
+    static void  JoinCategoriesAndProducts(){
+        SectionTitle("");
     }
 }
