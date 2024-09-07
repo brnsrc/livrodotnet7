@@ -1,0 +1,8 @@
+
+
+Unhandled exception. System.ArgumentException:  Argument type 
+'System.Linq.IOrderedQueryable`1[Packt.Shared.Product]' 
+does not match the corresponding member type 
+'System.Linq.IOrderedEnumerable`1[Packt.Shared.Product]' 
+(Parameter 'arguments[1]')
+

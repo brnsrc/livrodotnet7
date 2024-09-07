@@ -26,7 +26,8 @@ public class Northwind : DbContext
         if (Database.ProviderName.Contains("Sqlite"))
         {
             modelBuilder.Entity<Product>().
-                Property(product => product.UnitPrice).HasConversion<double>();
+                Property(product => product.UnitPrice).
+                HasConversion<double>();
         }
     }
 }
