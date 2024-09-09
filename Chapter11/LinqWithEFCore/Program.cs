@@ -2,4 +2,5 @@
 
 // FilterAndSort();
 // JoinCategoriesAndProducts();
-GroupJoinCategoriesAndProducts();
+// GroupJoinCategoriesAndProducts();
+AggregateProducts();

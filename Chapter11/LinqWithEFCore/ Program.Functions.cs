@@ -85,4 +85,35 @@ partial class Program
             }
         }
     }
+
+    static void  AggregateProducts(){
+        SectionTitle("Aggregate products");
+        using (Northwind db = new())
+        {
+            WriteLine("{0,-25} {1, 10}",
+                arg0: "Product count:",
+                arg1: db.Products.Count());
+
+            WriteLine("{0,-25} {1,10:$#,##0.00}",
+                arg0: "Highest product price:",
+                arg1: db.Products.Max(p => p.UnitPrice));
+
+            WriteLine("{0,-25} {1,10:N0}",
+                arg0: "Sum of units in stock:",
+                arg1: db.Products.Sum(p => p.UnitsInStock));
+
+            WriteLine("{0,-25} {1,10:N0}",
+                arg0: "Sum of units in order:",
+                arg1: db.Products.Sum(p => p.UnitsOnOrder));
+
+            WriteLine("{0, -25} {1,10:$#,##0.00}",
+                arg0: "Average unit price:",
+                arg1: db.Products.Average(p => p.UnitPrice));
+
+            WriteLine("{0, -25} {1,10:$#,##0.00}",
+                arg0: "Value of units in stock:",
+                arg1: db.Products.Sum(p => p.UnitPrice * p.UnitsInStock));
+        }
+    }
+    
 }
