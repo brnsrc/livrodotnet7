@@ -1,0 +1,14 @@
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.exe
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.deps.json
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.runtimeconfig.json
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\bin\Debug\net7.0\LinqInParallel.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.AssemblyInfoInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.AssemblyInfo.cs
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.csproj.CoreCompileInputs.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\obj\Debug\net7.0\refint\LinqInParallel.dll
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.pdb
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\obj\Debug\net7.0\LinqInParallel.genruntimeconfig.cache
+C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\Chapter11\LinqInParallel\obj\Debug\net7.0\ref\LinqInParallel.dll

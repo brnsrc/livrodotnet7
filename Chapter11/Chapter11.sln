@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithObjects", "LinqWith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithEFCore", "LinqWithEFCore\LinqWithEFCore.csproj", "{1ED233BA-9C3C-441E-B2FC-3F2040D62E31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInParallel", "LinqInParallel\LinqInParallel.csproj", "{6DC9E005-C05B-46B7-8724-928B10CF7A12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{1ED233BA-9C3C-441E-B2FC-3F2040D62E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ED233BA-9C3C-441E-B2FC-3F2040D62E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ED233BA-9C3C-441E-B2FC-3F2040D62E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC9E005-C05B-46B7-8724-928B10CF7A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC9E005-C05B-46B7-8724-928B10CF7A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC9E005-C05B-46B7-8724-928B10CF7A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC9E005-C05B-46B7-8724-928B10CF7A12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
