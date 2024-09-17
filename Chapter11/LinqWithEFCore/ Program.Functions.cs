@@ -9,8 +9,10 @@ partial class Program
         using (Northwind db = new())
         {
             DbSet<Product> allProducts = db.Products;
+            IQueryable<Product> ProcessedProducts =
+                allProducts.ProcessSequence();
             IQueryable<Product> filteredProducts =
-                allProducts.Where(
+                ProcessedProducts.Where(
                 product => product.UnitPrice < 10M);
 
             IOrderedQueryable<Product> sortedAndFilteredProducts =
@@ -86,7 +88,8 @@ partial class Program
         }
     }
 
-    static void  AggregateProducts(){
+    static void AggregateProducts()
+    {
         SectionTitle("Aggregate products");
         using (Northwind db = new())
         {
@@ -115,5 +118,29 @@ partial class Program
                 arg1: db.Products.Sum(p => p.UnitPrice * p.UnitsInStock));
         }
     }
-    
+    static void CustomExtensionMethods()
+    {
+        SectionTitle("Custom aggregate extension methods");
+        using (Northwind db = new())
+        {
+            WriteLine("{0, -25} {1,10:N0}", "Mean untis in stock:",
+            db.Products.Average(p => p.UnitsInStock));
+
+            WriteLine("{0, -25} {1,10:$#,##0.00}", "Mean unit price:",
+                db.Products.Average(p => p.UnitPrice));
+
+            WriteLine("{0, -25} {1,10:N0}", "Median units in stock",
+                db.Products.Median(p => p.UnitsInStock));
+
+            WriteLine("{0, -25} {1,10:$#,##0.00}", "Media unit price",
+                db.Products.Median(p => p.UnitPrice));
+
+            WriteLine("{0, -25} {1,10:N0}", "Mode units in stock:",
+                db.Products.Mode(p => p.UnitsInStock));
+
+            WriteLine("{0, -25} {1,10:$#,##0.00}", "Mode unit price:",
+                db.Products.Mode(p => p.UnitPrice));
+        }
+    }
+
 }
