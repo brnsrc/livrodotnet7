@@ -1,6 +1,9 @@
 
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Packt.Shared;
+using System.Xml.Linq;
+
 partial class Program
 {
     static void FilterAndSort()
@@ -140,6 +143,34 @@ partial class Program
 
             WriteLine("{0, -25} {1,10:$#,##0.00}", "Mode unit price:",
                 db.Products.Mode(p => p.UnitPrice));
+        }
+    }
+
+    static void  OutputProductsAsXml(){
+        SectionTitle("Output products as XML");
+        using (Northwind db = new())
+        {
+            Product[] productsArray = db.Products.ToArray();
+            XElement xml = new("products",
+                from p in productsArray
+                select new XElement("product", new XAttribute("id", p.ProductId), new XAttribute("price", p.UnitPrice), new XElement("name", p.ProductName)));
+            WriteLine(xml.ToString());
+        }
+    }
+
+    static void ProcessSettings(){
+        string path = Path.Combine(Environment.CurrentDirectory, "settings.xml");
+        WriteLine($"Settings file path: {path}");
+        XDocument doc = XDocument.Load(path);
+        var appSettings = doc.Descendants("appSettings").Descendants("add").Select(node => new
+        {
+            Key = node.Attribute("key")?.Value,
+            Value = node.Attribute("value")?.Value
+        }).ToArray();
+
+        foreach (var item in appSettings)
+        {
+            WriteLine($"{item.Key}: {item.Value}");
         }
     }
 

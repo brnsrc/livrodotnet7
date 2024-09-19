@@ -4,4 +4,6 @@
 // JoinCategoriesAndProducts();
 // GroupJoinCategoriesAndProducts();
 // AggregateProducts();
-CustomExtensionMethods();
+// CustomExtensionMethods();
+// OutputProductsAsXml();
+ProcessSettings();
