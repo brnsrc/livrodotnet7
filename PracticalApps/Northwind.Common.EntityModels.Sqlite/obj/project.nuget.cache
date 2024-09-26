@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oOiG+6tNHJjrE70rePvi0T1+ExFc3Sxo8dJzSy/+T0kKat5MhZaSrk7WpBpWjztGcbjTzWy3WIwtpvWMoS9qPQ==",
+  "dgSpecHash": "RhHud9q8zfiMXCagqtAvxM5ZnBQNJUxPdIi6ayUan+FT1VzFXfuZoZKAvQTgcqoazLWzz3fNGXKeI0zmV5pFXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,10 @@
     "C:\\Users\\bruno.costa\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\bruno.costa\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\bruno.costa\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

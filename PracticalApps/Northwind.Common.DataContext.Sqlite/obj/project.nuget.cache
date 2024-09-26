@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9K7+8FQsHI31j8Nny11PA0+j69pKqkeaDhjNJH2G9+sOMquad+Ql8AJu88IcZF87d2ZDuBA6LAmksrnbJbhXEw==",
+  "dgSpecHash": "vTFB63zVVFudO9NcGas7RQgzfzj+MdoBxJd1HKyjRpHV7rlI8hVfn01Xf77R/xwG5Jh63GXJ+VOkAHa80dlKtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
   "expectedPackageFiles": [
@@ -27,7 +27,10 @@
     "C:\\Users\\bruno.costa\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\bruno.costa\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\bruno.costa\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\bruno.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }
