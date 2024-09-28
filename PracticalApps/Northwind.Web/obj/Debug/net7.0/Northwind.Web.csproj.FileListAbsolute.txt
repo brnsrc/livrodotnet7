@@ -49,3 +49,6 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Web
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Web\obj\Debug\net7.0\Northwind.Web.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Web\obj\Debug\net7.0\Northwind.Web.genruntimeconfig.cache
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Web\obj\Debug\net7.0\ref\Northwind.Web.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Web\bin\Debug\net7.0\Northwind.Web.staticwebassets.runtime.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Web\obj\Debug\net7.0\Northwind.Web.RazorAssemblyInfo.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Web\obj\Debug\net7.0\Northwind.Web.RazorAssemblyInfo.cs
