@@ -1,6 +1,8 @@
+using Packt.Shared; //NorthwindContext
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
-
+builder.Services.AddNorthwindContext();
 var app = builder.Build();
 
 if (!app.Environment.IsDevelopment())

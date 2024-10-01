@@ -8,5 +8,7 @@
   <ItemGroup>
     <Using Include="System.Console" static="true" />
   </ItemGroup>
-
+  <ItemGroup>
+    <ProjectReference Include="..\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite.csproj"/>
+  </ItemGroup>
 </Project>
