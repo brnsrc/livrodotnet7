@@ -17,3 +17,13 @@ Solução: Tinha dois apontamentos para o ambiente de desenvolvimento
 
 "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
   
+
+  dotnet ef dbcontext scaffold "Filename=Northwind.db" 
+Microsoft.EntityFrameworkCore.Sqlite --table Categories --table Products 
+--output-dir AutoGenModels --namespace WorkingWithEFCore.AutoGen --data-annotations --context Northwind
+
+dotnet ef dbcontext scaffold "Filename=../Northwind.db" Microsoft.EntityFrameworkCore.Sqlite --namespace Packt.Shared --data-annotations
+
+
+ Adds NorthwindContext to the specified IServiceCollection. Uses the Sqlite database provider.
+  /// </summary>

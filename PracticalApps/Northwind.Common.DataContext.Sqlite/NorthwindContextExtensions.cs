@@ -16,6 +16,7 @@ public static class  NorthwindContextExtensions
         services.AddDbContext<NorthwindContext>(options =>
         {
             options.UseSqlite($"Data Source = {databasePath}");
+            
             options.LogTo(WriteLine, //Console
             new[] { Microsoft.EntityFrameworkCore.Diagnostics.RelationalEventId.CommandExecuting });
         });

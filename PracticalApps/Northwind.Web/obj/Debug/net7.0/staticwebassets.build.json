@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AVM6LftSiHPgVYfOWTac3v1YHp1CNXgLzWyGynrLCHs=",
+  "Hash": "ReccYVRgxj8rVuHW05AMHT/9YHv3Q9GjdQJVNvq7Dac=",
   "Source": "Northwind.Web",
   "BasePath": "_content/Northwind.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Northwind.Web\\wwwroot",
       "Source": "Northwind.Web",
-      "ContentRoot": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Web\\wwwroot\\",
       "BasePath": "_content/Northwind.Web",
       "Pattern": "**"
     }

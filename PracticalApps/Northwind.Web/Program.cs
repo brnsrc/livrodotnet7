@@ -1,4 +1,4 @@
-using Packt.Shared; //NorthwindContext
+using Packt.Shared; //NorthwindContext extensio method
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();

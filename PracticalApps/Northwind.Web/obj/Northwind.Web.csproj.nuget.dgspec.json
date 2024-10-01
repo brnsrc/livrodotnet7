@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Web\\Northwind.Web.csproj": {}
+    "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Web\\Northwind.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
+    "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
         "projectName": "Northwind.Common.DataContext.Sqlite",
-        "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
-        "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\obj\\",
+        "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
+        "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\BrunoSouza-Desk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +31,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
-                "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj"
+              "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
+                "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj"
               }
             }
           }
@@ -68,24 +68,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
+    "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
         "projectName": "Northwind.Common.EntityModels.Sqlite",
-        "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
-        "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\obj\\",
+        "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+        "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.EntityModels.Sqlite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\BrunoSouza-Desk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,24 +138,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Web\\Northwind.Web.csproj": {
+    "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Web\\Northwind.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Web\\Northwind.Web.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Web\\Northwind.Web.csproj",
         "projectName": "Northwind.Web",
-        "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Web\\Northwind.Web.csproj",
-        "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Web\\obj\\",
+        "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Web\\Northwind.Web.csproj",
+        "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\BrunoSouza-Desk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -169,8 +169,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
-                "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj"
+              "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
+                "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj"
               }
             }
           }
@@ -203,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
