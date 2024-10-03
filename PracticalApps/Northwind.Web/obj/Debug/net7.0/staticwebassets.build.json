@@ -1,16 +1,28 @@
 {
   "Version": 1,
-  "Hash": "J2xCFlyOD3Q3Oh954b76rJCMyZeF/VRakWmomHEu0zg=",
+  "Hash": "TwMlGeSktpMNDutlHf5kLwQwJXitueETG7uD/1+H2lE=",
   "Source": "Northwind.Web",
   "BasePath": "_content/Northwind.Web",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
+      "Version": 2,
+      "Source": "Northwind.Razor.Employees",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "Northwind.Web\\wwwroot",
       "Source": "Northwind.Web",
-      "ContentRoot": "C:\\Users\\bruno.costa\\Documents\\code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Web\\wwwroot\\",
       "BasePath": "_content/Northwind.Web",
       "Pattern": "**"
     }
