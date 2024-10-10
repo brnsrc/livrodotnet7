@@ -1,8 +1,18 @@
 using Microsoft.EntityFrameworkCore.Query;
 using Packt.Shared; //AddNorthwindContext extension method
+using Microsoft.AspNetCore.Server.Kestrel.Core; //HttpProtocols
 
 //configure services
 var builder = WebApplication.CreateBuilder(args);
+// builder.WebHost.ConfigureKestrel((context, options) =>
+// {
+//     options.ListenAnyIP(5001, listenOptions =>
+//     {
+//         listenOptions.Protocols = HttpProtocols.Http1AndHttp2AndHttp3;
+//         listenOptions.UseHttps(); // HTTP/3 requires secure connections
+//     });
+// });
+
 builder.Services.AddRazorPages();
 builder.Services.AddNorthwindContext();
 var app = builder.Build();

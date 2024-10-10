@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/BrunoSouza-Desk/Documents/Code/livrodotnet7/PracticalApps/Northwind.Web/Pages/Customers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/BrunoSouza-Desk/Documents/Code/livrodotnet7/PracticalApps/Northwind.Web/Pages/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -28,7 +28,7 @@ namespace Northwind.Web.Pages
                 db.SaveChanges();
                 return RedirectToPage("/suppliers");
             }
-            else{
+            else{                
                 return Page(); //return to original page
             }
         }
