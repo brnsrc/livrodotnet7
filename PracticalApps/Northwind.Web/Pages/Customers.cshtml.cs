@@ -1,24 +1,22 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+using Packt.Shared;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Extensions.Logging;
+
 
 namespace Northwind.Web.Pages
 {
-    public class Customers : PageModel
+    public class CustomersModel : PageModel
     {
-        private readonly ILogger<Customers> _logger;
-
-        public Customers(ILogger<Customers> logger)
+        public ILookup<string?, Customer>? CustomersByCountry;
+        private NorthwindContext db;
+        public CustomersModel(NorthwindContext db)
         {
-            _logger = logger;
+            this.db = db;
         }
 
         public void OnGet()
         {
+            CustomersByCountry =
+                db.Customers.ToLookup(c => c.Country);
         }
     }
 }
