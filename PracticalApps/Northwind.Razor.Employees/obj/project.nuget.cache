@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tm+MP8rH+h1QedDLo2S2nORDDX+rmcC1lJ8whVfWy4P+lXpZWnFAbHKCzGUnaK6I+Nvg/JMLLpXaB9NWGPZmkA==",
+  "dgSpecHash": "3/WcqbMqpy4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\Code\\livrodotnet7\\PracticalApps\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
+  "projectFilePath": "C:\\Users\\BrunoSouza-Desk\\Documents\\code\\livrodotnet7\\PracticalApps\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

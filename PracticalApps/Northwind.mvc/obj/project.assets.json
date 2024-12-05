@@ -1748,23 +1748,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bruno.costa\\.nuget\\packages\\": {},
+    "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\BrunoSouza-Desk\\Documents\\code\\livrodotnet7\\PracticalApps\\Northwind.mvc\\Northwind.Mvc.csproj",
       "projectName": "Northwind.Mvc",
-      "projectPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Mvc\\Northwind.Mvc.csproj",
-      "packagesPath": "C:\\Users\\bruno.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno.costa\\Documents\\Code\\cs\\livrodotnet7\\PracticalApps\\Northwind.Mvc\\obj\\",
+      "projectPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\code\\livrodotnet7\\PracticalApps\\Northwind.mvc\\Northwind.Mvc.csproj",
+      "packagesPath": "C:\\Users\\BrunoSouza-Desk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BrunoSouza-Desk\\Documents\\code\\livrodotnet7\\PracticalApps\\Northwind.mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bruno.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BrunoSouza-Desk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1772,6 +1772,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1784,6 +1785,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1830,7 +1836,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
