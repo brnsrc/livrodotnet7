@@ -157,3 +157,7 @@ C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc
 C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc\obj\Debug\net7.0\Northwind.Mvc.pdb
 C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc\obj\Debug\net7.0\Northwind.Mvc.genruntimeconfig.cache
 C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc\obj\Debug\net7.0\ref\Northwind.Mvc.dll
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.pdb
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb

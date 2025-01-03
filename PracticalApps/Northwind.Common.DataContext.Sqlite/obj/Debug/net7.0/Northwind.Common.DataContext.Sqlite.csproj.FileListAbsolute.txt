@@ -24,8 +24,8 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Com
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.AssemblyInfo.cs
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.CoreCompileInputs.cache
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.sourcelink.json
-C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.CopyComplete
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.dll
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\refint\Northwind.Common.DataContext.Sqlite.dll
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\ref\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwin.1894C967.Up2Date
