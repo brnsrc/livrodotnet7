@@ -22,12 +22,32 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Index copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleCBjb3B5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/ModelBinding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RlbEJpbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/ProductsThatCostMoreThan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0c1RoYXRDb3N0TW9yZVRoYW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Shared/Error.cshtml]

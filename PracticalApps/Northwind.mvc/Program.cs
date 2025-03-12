@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Northwind.Mvc.Data;
-using Packt.Shared;
+using Packt.Shared; // AddNorthwindContext extension method
 
 var builder = WebApplication.CreateBuilder(args);
 

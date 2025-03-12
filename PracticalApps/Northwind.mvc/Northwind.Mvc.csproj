@@ -14,6 +14,7 @@
   <ItemGroup>
     <!-- change sqlite to sqlserver if your prefer -->
     <ProjectReference Include="C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite.csproj" />
+    
   </ItemGroup>
 
   <ItemGroup>
