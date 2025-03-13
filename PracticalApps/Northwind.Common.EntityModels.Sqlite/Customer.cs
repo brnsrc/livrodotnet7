@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
-
+using System.Xml.Serialization; // [XmlIgnore]
 namespace Packt.Shared;
 
 [Index("City", Name = "City")]
@@ -49,6 +49,8 @@ public partial class Customer
     [Column(TypeName = "nvarchar (24)")]
     public string? Fax { get; set; }
 
-    [InverseProperty("Customer")]
-    public virtual ICollection<Order> Orders { get; } = new List<Order>();
+    [InverseProperty(nameof(Order.Customer))]
+    // [InverseProperty("Customer")]
+    [XmlIgnore]
+    public virtual ICollection<Order> Orders { get; set;}
 }
