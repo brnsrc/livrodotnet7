@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Northwind.Mvc
 build_property.RootNamespace = Northwind.Mvc
-build_property.ProjectDir = C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc\
+build_property.ProjectDir = C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\PracticalApps\Northwind.mvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.mvc
+build_property.MSBuildProjectDirectory = C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\PracticalApps\Northwind.mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Category.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Index copy.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Index copy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleCBjb3B5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Index.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/ModelBinding.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/ModelBinding.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RlbEJpbmRpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Privacy.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/ProductDetail.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/ProductDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/ProductsThatCostMoreThan.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Home/ProductsThatCostMoreThan.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0c1RoYXRDb3N0TW9yZVRoYW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Shared/Error.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/_ViewImports.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/_ViewStart.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrunoSouza-Desk/Documents/code/livrodotnet7/PracticalApps/Northwind.mvc/Views/Shared/_Layout.cshtml]
+[C:/Users/bruno.costa/Documents/Code/cs/livrodotnet7/PracticalApps/Northwind.mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3d27gd9yot
