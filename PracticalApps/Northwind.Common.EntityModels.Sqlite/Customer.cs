@@ -12,9 +12,14 @@ namespace Packt.Shared;
 [Index("Region", Name = "Region")]
 public partial class Customer
 {
+    // public Customer()
+    // {
+    //     Orders = new HashSet<Order>();
+    // }
+
     [Key]
     [Column(TypeName = "nchar (5)")]
-    [RegularExpression("[A-Z{5}]")]
+    [RegularExpression("[A-Z]{5}")]
     public string CustomerId { get; set; } = null!;
 
     [Required]
@@ -52,5 +57,5 @@ public partial class Customer
     [InverseProperty(nameof(Order.Customer))]
     // [InverseProperty("Customer")]
     [XmlIgnore]
-    public virtual ICollection<Order> Orders { get; set;}
+    public virtual ICollection<Order>? Orders { get; set;}
 }
