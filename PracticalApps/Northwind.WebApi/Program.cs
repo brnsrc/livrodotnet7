@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc.Formatters; //IOutputFormatter, OutputFormatter
 using Packt.Shared; //AddNorthWindContext extension methods
 using Northwind.WebApi.Repositories; //ICustomerRepository, CustomerRepository
+using Swashbuckle.AspNetCore.SwaggerUI; //SubmitMethod
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -39,7 +40,18 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+
+    //config. padrão foi o suficiente nos testes com delaração "app.UseSwaggerUI();" 
+    //config abaixo apenas para seguir o livro   
+    app.UseSwaggerUI( c =>         
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Northwind Service API Version 1");
+        c.SupportedSubmitMethods(new[]
+        {
+            SubmitMethod.Get, SubmitMethod.Post, SubmitMethod.Put, SubmitMethod.Delete    
+        });
+    });
+    
 }
 
 app.UseHttpsRedirection();
