@@ -78,6 +78,14 @@
       We have had @Model?.VisitorCount visitors this month.
     </p>
 
+
+    <h3>Query customers form a service</h3>
+    <form asp-action="Customers" method="get">
+      <input name="country" placeholder="Enter a country" />
+      <input type="submit" />
+    </form>
+
+
     <h3>Query Products by price</h3>
     <form asp-action="ProductsThatCostMoreThan" method="get">
       <input name="price" placeholder="Enter a product price" />

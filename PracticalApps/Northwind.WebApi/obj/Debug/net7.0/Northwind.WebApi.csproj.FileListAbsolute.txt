@@ -136,3 +136,8 @@ C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\PracticalApps\Northwind.WebA
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\PracticalApps\Northwind.WebApi\obj\Debug\net7.0\Northwind.WebApi.pdb
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\PracticalApps\Northwind.WebApi\obj\Debug\net7.0\Northwind.WebApi.genruntimeconfig.cache
 C:\Users\bruno.costa\Documents\Code\cs\livrodotnet7\PracticalApps\Northwind.WebApi\obj\Debug\net7.0\ref\Northwind.WebApi.dll
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BrunoSouza-Desk\Documents\code\livrodotnet7\PracticalApps\Northwind.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll

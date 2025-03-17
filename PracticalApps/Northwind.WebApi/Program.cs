@@ -33,6 +33,7 @@ builder.Services.AddControllers(
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
+builder.Services.AddHealthChecks().AddDbContextCheck<NorthwindContext>();
 
 var app = builder.Build();
 
@@ -56,5 +57,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
+
+app.UseHealthChecks(path:"/howdoyoufeel");
+
 app.MapControllers();
 app.Run();
