@@ -1,7 +1,9 @@
 using Microsoft.AspNetCore.Mvc.Formatters; //IOutputFormatter, OutputFormatter
 using Packt.Shared; //AddNorthWindContext extension methods
 using Northwind.WebApi.Repositories; //ICustomerRepository, CustomerRepository
-using Swashbuckle.AspNetCore.SwaggerUI; //SubmitMethod
+using Swashbuckle.AspNetCore.SwaggerUI;
+using Northwind.WebApi; //SubmitMethod
+using Microsoft.AspNetCore.Server.Kestrel.Core; //HttpProtocols
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -35,6 +37,14 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 builder.Services.AddHealthChecks().AddDbContextCheck<NorthwindContext>();
 
+builder.WebHost.ConfigureKestrel((context, optons) =>
+{
+    optons.ListenAnyIP(5002, ListenOptions => {
+        ListenOptions.Protocols = HttpProtocols.Http1AndHttp2AndHttp3;
+        ListenOptions.UseHttps(); // HTTP/3 require secure connections
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -51,14 +61,15 @@ if (app.Environment.IsDevelopment())
         {
             SubmitMethod.Get, SubmitMethod.Post, SubmitMethod.Put, SubmitMethod.Delete    
         });
-    });
-    
+    });    
 }
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
 
+//to verify health check api
 app.UseHealthChecks(path:"/howdoyoufeel");
 
+app.UseMiddleware<SecurityHeaders>();
 app.MapControllers();
 app.Run();
