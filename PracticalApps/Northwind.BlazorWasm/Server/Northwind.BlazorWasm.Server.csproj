@@ -15,5 +15,8 @@
     <ProjectReference Include="..\Shared\Northwind.BlazorWasm.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite.csproj" />
+  </ItemGroup>
 
 </Project>

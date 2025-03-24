@@ -101,6 +101,34 @@
       "url": "_framework\/Microsoft.AspNetCore.Metadata.dll"
     },
     {
+      "hash": "sha256-wHeADFwaqWFqU4A6NygC0A5rSQsxPptoTHfUN0Dswt0=",
+      "url": "_framework\/Microsoft.Data.Sqlite.dll"
+    },
+    {
+      "hash": "sha256-fkB0k4ufcfowVFOPu44Q5vIgndrRW59pKZEwCgkVvBE=",
+      "url": "_framework\/Microsoft.EntityFrameworkCore.dll"
+    },
+    {
+      "hash": "sha256-ki3HFT2MaMyFEpujQHD8LVuUNXYs+YaeJN+0Gr+Z0kY=",
+      "url": "_framework\/Microsoft.EntityFrameworkCore.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-rYh1dfpwtMLvmtKSqlJKBXHbScSem78+I9lRNY5k+qY=",
+      "url": "_framework\/Microsoft.EntityFrameworkCore.Relational.dll"
+    },
+    {
+      "hash": "sha256-HYi8tTJAHcc6vLnLm2K2ZYSJGESNG2pCt61cmDaV3k8=",
+      "url": "_framework\/Microsoft.EntityFrameworkCore.Sqlite.dll"
+    },
+    {
+      "hash": "sha256-tiD1Xg\/wcoUkJVBDtLfs5EiB1IwSUm0d\/lPffRVbKOc=",
+      "url": "_framework\/Microsoft.Extensions.Caching.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-xNEDLuTrpWv6Lq76qNCi\/PYwN6Ev6cjFAzNQPsAKMfg=",
+      "url": "_framework\/Microsoft.Extensions.Caching.Memory.dll"
+    },
+    {
       "hash": "sha256-PqQvp77oZ4+uuy2ElXk8AU9I6RfZSf18UGTrd4rulOo=",
       "url": "_framework\/Microsoft.Extensions.Configuration.dll"
     },
@@ -127,6 +155,10 @@
     {
       "hash": "sha256-jrAm+30mcWoI54hsUTOr+RMOzHIq+zO8ZuRBVrBvCoo=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-GtQ8eMd\/lfhUiu8KNzgZ99JT2rbjhhm8nq8+Zg32014=",
+      "url": "_framework\/Microsoft.Extensions.DependencyModel.dll"
     },
     {
       "hash": "sha256-Zt6OY6gg\/1Tzt9oFOQBkezPvUVkFK4dyM6Pfk+MTUvg=",
@@ -165,8 +197,24 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
+      "hash": "sha256-QKXdVPR3+dDapThW25ARyok9JtLTTRTdLoG6LfEQQhg=",
+      "url": "_framework\/SQLitePCLRaw.batteries_v2.dll"
+    },
+    {
+      "hash": "sha256-l57cyQVqwG1fUrEtm3czsSF5FKtQvxI6sxLgJ+esV6U=",
+      "url": "_framework\/SQLitePCLRaw.core.dll"
+    },
+    {
+      "hash": "sha256-RwA\/P9Qppbadb8bP0Wv82XkQMhcB5eeoiQYWQ8gdCGU=",
+      "url": "_framework\/SQLitePCLRaw.provider.e_sqlite3.dll"
+    },
+    {
       "hash": "sha256-P\/MqD0fCBd5bgTM16JC1QC\/Zz7s+CwViyzmDFkBG4\/c=",
       "url": "_framework\/System.IO.Pipelines.dll"
+    },
+    {
+      "hash": "sha256-Im3kpJaO1q6ekNFiPAcYXn9pR0E5esDIIFK6WVIvOeQ=",
+      "url": "_framework\/e_sqlite3.a"
     },
     {
       "hash": "sha256-6V4GfO5zHzzbEf480NtrHxZo3KX5ZAFCJUG6sEqKTp8=",
@@ -865,25 +913,33 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-TNWCbwf8bfDFK3DWw4T6Xmf0FVDAK4yT0vLml1udwpo=",
+      "hash": "sha256-wxpekRT8bO2pGIQ66aj8ihv6YfRgrzraf6Jka\/NrEXM=",
       "url": "_framework\/Northwind.BlazorWasm.Shared.dll"
     },
     {
-      "hash": "sha256-vRM+xzQaWYyVJRZwlZHohWfdRhweIxvBEs7v\/90WuAM=",
+      "hash": "sha256-kwzzFJ2oH00nYQeQA8Q4A1+R6TDYp1RqU4MUf4SLy7U=",
+      "url": "_framework\/Northwind.Common.EntityModels.Sqlite.dll"
+    },
+    {
+      "hash": "sha256-4FLeB3C\/\/NzqVvCXBPawJIG7HzAVjmRMWAbHLTmac9E=",
       "url": "_framework\/Northwind.BlazorWasm.Shared.pdb"
     },
     {
-      "hash": "sha256-mSruCFWLvwmQ7c4Dfrit8UfypXFpI0SJQ\/Y0WAvOnjM=",
+      "hash": "sha256-3zud0R7Cf7EyUu2CBOKdSF2Ipl9TcS66HQqYpy5txl8=",
+      "url": "_framework\/Northwind.Common.EntityModels.Sqlite.pdb"
+    },
+    {
+      "hash": "sha256-hxSuoaEZGQiUsWSMvVNDsrouGB8acGTKmyEqVZ8UfgA=",
       "url": "_framework\/Northwind.BlazorWasm.Client.dll"
     },
     {
-      "hash": "sha256-HbhgDrgjYPIAPWTAcF1KjN+ScoebNS8GYKaM0hgO7\/s=",
+      "hash": "sha256-AtxauICW7IOk2fKxtGapEd3P+oXAdgBbW8t9wbMngD4=",
       "url": "_framework\/Northwind.BlazorWasm.Client.pdb"
     },
     {
-      "hash": "sha256-4m2R99zT8141SWdooeNpeFqDLKKLgjYCkVoVntqf2TQ=",
+      "hash": "sha256-DXHBM6z3tVbt+fFM5pMYJhcVEB+hxHT3bdQWI09\/4zU=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "B5tIIqQQ"
+  "version": "7\/KKOGs2"
 };
