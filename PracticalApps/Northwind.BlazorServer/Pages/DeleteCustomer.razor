@@ -6,6 +6,8 @@
 <div class="alert alert-danger">
     Warning! This action cannot be undone!
 </div>
+<CustomerDetail ButtonText="Delete Customer" 
+    ButtonStyle="danger" Customer="@customer" OnValidSubmit="@Delete" />
 
 @code{
     [Parameter]
