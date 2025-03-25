@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Northwind.BlazorWasm.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fe706314e2c4651d77db7f464618b4e4c2cd2c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cf2d1786deee82a953957f2bc5266884775a17c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Northwind.BlazorWasm.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Northwind.BlazorWasm.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

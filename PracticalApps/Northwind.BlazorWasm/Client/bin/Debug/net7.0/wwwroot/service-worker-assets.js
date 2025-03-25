@@ -913,33 +913,33 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-wxpekRT8bO2pGIQ66aj8ihv6YfRgrzraf6Jka\/NrEXM=",
+      "hash": "sha256-QVp90NneWKH+n5jPeXTjiaansfYEsSWE4SaiD7uBILo=",
       "url": "_framework\/Northwind.BlazorWasm.Shared.dll"
     },
     {
-      "hash": "sha256-kwzzFJ2oH00nYQeQA8Q4A1+R6TDYp1RqU4MUf4SLy7U=",
+      "hash": "sha256-xXW0oaT3US8lYuSzfJBz5zDvhIcVM89fb2HGVkM1lKQ=",
       "url": "_framework\/Northwind.Common.EntityModels.Sqlite.dll"
     },
     {
-      "hash": "sha256-4FLeB3C\/\/NzqVvCXBPawJIG7HzAVjmRMWAbHLTmac9E=",
+      "hash": "sha256-y6U+hwsajJzPxgAmcrT3qpMO8Jyg6yj25g\/Yy+AnRVY=",
       "url": "_framework\/Northwind.BlazorWasm.Shared.pdb"
     },
     {
-      "hash": "sha256-3zud0R7Cf7EyUu2CBOKdSF2Ipl9TcS66HQqYpy5txl8=",
+      "hash": "sha256-0YpjI\/PplLf5EWQuWbmD2mEwgFbqTFIwgWCVlKB7Ksk=",
       "url": "_framework\/Northwind.Common.EntityModels.Sqlite.pdb"
     },
     {
-      "hash": "sha256-hxSuoaEZGQiUsWSMvVNDsrouGB8acGTKmyEqVZ8UfgA=",
+      "hash": "sha256-klr5Ha9bhrc0WgueQLNKy1WqvzhcZ6ZOBr85Fr+JmAQ=",
       "url": "_framework\/Northwind.BlazorWasm.Client.dll"
     },
     {
-      "hash": "sha256-AtxauICW7IOk2fKxtGapEd3P+oXAdgBbW8t9wbMngD4=",
+      "hash": "sha256-dHscAaVU6H9atgtzPRxu7kYeKRQn377mm1C+7Lp2Mjg=",
       "url": "_framework\/Northwind.BlazorWasm.Client.pdb"
     },
     {
-      "hash": "sha256-DXHBM6z3tVbt+fFM5pMYJhcVEB+hxHT3bdQWI09\/4zU=",
+      "hash": "sha256-bIsdszuhGNCAmFFhtykzOurW\/MRDVuVA7Hdy56o02i4=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "7\/KKOGs2"
+  "version": "DZmWDFRb"
 };
